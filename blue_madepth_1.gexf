@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-02-25">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Blue" label="Blue" />
+      <node id="Air Force blue" label="Air Force blue" />
+      <node id="Azure (color)" label="Azure (color)" />
+      <node id="Baby blue" label="Baby blue" />
+      <node id="Bleu de France (colour)" label="Bleu de France (colour)" />
+      <node id="Blue (disambiguation)" label="Blue (disambiguation)" />
+      <node id="Blue in culture" label="Blue in culture" />
+      <node id="Blue pigments" label="Blue pigments" />
+      <node id="Blue–green distinction in language" label="Blue–green distinction in language" />
+      <node id="Bondi blue" label="Bondi blue" />
+      <node id="Brandeis blue" label="Brandeis blue" />
+      <node id="Brilliant blue FCF" label="Brilliant blue FCF" />
+      <node id="Cambridge Blue (colour)" label="Cambridge Blue (colour)" />
+      <node id="Carolina blue" label="Carolina blue" />
+      <node id="Cobalt blue" label="Cobalt blue" />
+      <node id="Color" label="Color" />
+      <node id="Color of water" label="Color of water" />
+      <node id="Columbia blue" label="Columbia blue" />
+      <node id="Cornflower blue" label="Cornflower blue" />
+      <node id="Green" label="Green" />
+      <node id="Light blue" label="Light blue" />
+      <node id="List of colors by shade" label="List of colors by shade" />
+      <node id="List of colours by shade" label="List of colours by shade" />
+      <node id="Marian blue" label="Marian blue" />
+      <node id="Midnight blue" label="Midnight blue" />
+      <node id="Navy blue" label="Navy blue" />
+      <node id="Orange (colour)" label="Orange (colour)" />
+      <node id="Oxford Blue (colour)" label="Oxford Blue (colour)" />
+      <node id="Powder blue" label="Powder blue" />
+      <node id="Primary color" label="Primary color" />
+      <node id="Primary colour" label="Primary colour" />
+      <node id="Primary colours" label="Primary colours" />
+      <node id="Prussian blue" label="Prussian blue" />
+      <node id="Purple" label="Purple" />
+      <node id="Red" label="Red" />
+      <node id="Royal blue" label="Royal blue" />
+      <node id="Sapphire (color)" label="Sapphire (color)" />
+      <node id="Shades of azure" label="Shades of azure" />
+      <node id="Shades of blue" label="Shades of blue" />
+      <node id="Shades of cyan" label="Shades of cyan" />
+      <node id="Shades of orange" label="Shades of orange" />
+      <node id="Sky blue" label="Sky blue" />
+      <node id="St. Patrick's blue" label="St. Patrick's blue" />
+      <node id="Steel blue" label="Steel blue" />
+      <node id="United Nations blue" label="United Nations blue" />
+      <node id="Violet (color)" label="Violet (color)" />
+      <node id="YInMn Blue" label="YInMn Blue" />
+      <node id="YInMn blue" label="YInMn blue" />
+      <node id="Yale Blue" label="Yale Blue" />
+      <node id="Yellow" label="Yellow" />
+    </nodes>
+    <edges>
+      <edge source="Blue" target="Air Force blue" id="0" />
+      <edge source="Blue" target="Azure (color)" id="1" />
+      <edge source="Blue" target="Baby blue" id="2" />
+      <edge source="Blue" target="Bleu de France (colour)" id="3" />
+      <edge source="Blue" target="Blue (disambiguation)" id="4" />
+      <edge source="Blue" target="Blue in culture" id="5" />
+      <edge source="Blue" target="Blue pigments" id="6" />
+      <edge source="Blue" target="Blue–green distinction in language" id="7" />
+      <edge source="Blue" target="Bondi blue" id="8" />
+      <edge source="Blue" target="Brandeis blue" id="9" />
+      <edge source="Blue" target="Brilliant blue FCF" id="10" />
+      <edge source="Blue" target="Cambridge Blue (colour)" id="11" />
+      <edge source="Blue" target="Carolina blue" id="12" />
+      <edge source="Blue" target="Cobalt blue" id="13" />
+      <edge source="Blue" target="Color" id="14" />
+      <edge source="Blue" target="Color of water" id="15" />
+      <edge source="Blue" target="Columbia blue" id="16" />
+      <edge source="Blue" target="Cornflower blue" id="17" />
+      <edge source="Blue" target="Green" id="18" />
+      <edge source="Blue" target="Light blue" id="19" />
+      <edge source="Blue" target="List of colors by shade" id="20" />
+      <edge source="Blue" target="List of colours by shade" id="21" />
+      <edge source="Blue" target="Marian blue" id="22" />
+      <edge source="Blue" target="Midnight blue" id="23" />
+      <edge source="Blue" target="Navy blue" id="24" />
+      <edge source="Blue" target="Orange (colour)" id="25" />
+      <edge source="Blue" target="Oxford Blue (colour)" id="26" />
+      <edge source="Blue" target="Powder blue" id="27" />
+      <edge source="Blue" target="Primary color" id="28" />
+      <edge source="Blue" target="Primary colour" id="29" />
+      <edge source="Blue" target="Primary colours" id="30" />
+      <edge source="Blue" target="Prussian blue" id="31" />
+      <edge source="Blue" target="Purple" id="32" />
+      <edge source="Blue" target="Red" id="33" />
+      <edge source="Blue" target="Royal blue" id="34" />
+      <edge source="Blue" target="Sapphire (color)" id="35" />
+      <edge source="Blue" target="Shades of azure" id="36" />
+      <edge source="Blue" target="Shades of blue" id="37" />
+      <edge source="Blue" target="Shades of cyan" id="38" />
+      <edge source="Blue" target="Shades of orange" id="39" />
+      <edge source="Blue" target="Sky blue" id="40" />
+      <edge source="Blue" target="St. Patrick's blue" id="41" />
+      <edge source="Blue" target="Steel blue" id="42" />
+      <edge source="Blue" target="United Nations blue" id="43" />
+      <edge source="Blue" target="Violet (color)" id="44" />
+      <edge source="Blue" target="YInMn Blue" id="45" />
+      <edge source="Blue" target="YInMn blue" id="46" />
+      <edge source="Blue" target="Yale Blue" id="47" />
+      <edge source="Blue" target="Yellow" id="48" />
+    </edges>
+  </graph>
+</gexf>

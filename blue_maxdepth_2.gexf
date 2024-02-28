@@ -1,0 +1,1187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-02-26">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Blue" label="Blue" />
+      <node id="Air Force blue" label="Air Force blue" />
+      <node id="Baby blue" label="Baby blue" />
+      <node id="Bleu de France (colour)" label="Bleu de France (colour)" />
+      <node id="Blue in culture" label="Blue in culture" />
+      <node id="Brandeis blue" label="Brandeis blue" />
+      <node id="Cambridge Blue (colour)" label="Cambridge Blue (colour)" />
+      <node id="Dodger blue" label="Dodger blue" />
+      <node id="Light blue" label="Light blue" />
+      <node id="List of colors by shade" label="List of colors by shade" />
+      <node id="Navy blue" label="Navy blue" />
+      <node id="Oxford Blue (colour)" label="Oxford Blue (colour)" />
+      <node id="Powder blue" label="Powder blue" />
+      <node id="Prussian blue" label="Prussian blue" />
+      <node id="Royal Air Force uniform" label="Royal Air Force uniform" />
+      <node id="Royal blue" label="Royal blue" />
+      <node id="Shades of azure" label="Shades of azure" />
+      <node id="Shades of blue" label="Shades of blue" />
+      <node id="Steel blue" label="Steel blue" />
+      <node id="United Nations blue" label="United Nations blue" />
+      <node id="Yale Blue" label="Yale Blue" />
+      <node id="Azure (color)" label="Azure (color)" />
+      <node id="Aqua (color)" label="Aqua (color)" />
+      <node id="Aquamarine (color)" label="Aquamarine (color)" />
+      <node id="Azure (disambiguation)" label="Azure (disambiguation)" />
+      <node id="Azure (heraldry)" label="Azure (heraldry)" />
+      <node id="Azure blue" label="Azure blue" />
+      <node id="Bondi blue" label="Bondi blue" />
+      <node id="Red" label="Red" />
+      <node id="Shades of orange" label="Shades of orange" />
+      <node id="Baby blue (disambiguation)" label="Baby blue (disambiguation)" />
+      <node id="Columbia blue" label="Columbia blue" />
+      <node id="Cornflower blue" label="Cornflower blue" />
+      <node id="Dark blue (color)" label="Dark blue (color)" />
+      <node id="Marian blue" label="Marian blue" />
+      <node id="Robin egg blue" label="Robin egg blue" />
+      <node id="Tiffany Blue" label="Tiffany Blue" />
+      <node id="Blue (disambiguation)" label="Blue (disambiguation)" />
+      <node id="Blue, Arizona" label="Blue, Arizona" />
+      <node id="Blue, Indiana" label="Blue, Indiana" />
+      <node id="Blue, Oklahoma" label="Blue, Oklahoma" />
+      <node id="Blue, West Virginia" label="Blue, West Virginia" />
+      <node id="Blue (name)" label="Blue (name)" />
+      <node id="Blue Inc" label="Blue Inc" />
+      <node id="Blue Mountain (disambiguation)" label="Blue Mountain (disambiguation)" />
+      <node id="Blue Mountains (disambiguation)" label="Blue Mountains (disambiguation)" />
+      <node id="Blue River (disambiguation)" label="Blue River (disambiguation)" />
+      <node id="Blued (disambiguation)" label="Blued (disambiguation)" />
+      <node id="Bluey (disambiguation)" label="Bluey (disambiguation)" />
+      <node id="The Blue (disambiguation)" label="The Blue (disambiguation)" />
+      <node id="Blue (university sport)" label="Blue (university sport)" />
+      <node id="Blue Shirts (disambiguation)" label="Blue Shirts (disambiguation)" />
+      <node id="Blue and white porcelain" label="Blue and white porcelain" />
+      <node id="Blue pigments" label="Blue pigments" />
+      <node id="Cobalt blue" label="Cobalt blue" />
+      <node id="Han blue" label="Han blue" />
+      <node id="List of colours by shade" label="List of colours by shade" />
+      <node id="Maya blue" label="Maya blue" />
+      <node id="National colours" label="National colours" />
+      <node id="Picasso's Blue Period" label="Picasso's Blue Period" />
+      <node id="Political colour" label="Political colour" />
+      <node id="St. Patrick's blue" label="St. Patrick's blue" />
+      <node id="Traditional colours of Japan" label="Traditional colours of Japan" />
+      <node id="Azurite (pigment)" label="Azurite (pigment)" />
+      <node id="Egyptian blue" label="Egyptian blue" />
+      <node id="Han purple" label="Han purple" />
+      <node id="List of inorganic pigments" label="List of inorganic pigments" />
+      <node id="Pigment" label="Pigment" />
+      <node id="Pigments" label="Pigments" />
+      <node id="Ultramarine" label="Ultramarine" />
+      <node id="YInMn Blue" label="YInMn Blue" />
+      <node id="Blue–green distinction in language" label="Blue–green distinction in language" />
+      <node id="Basic color terms" label="Basic color terms" />
+      <node id="Color term" label="Color term" />
+      <node id="Green" label="Green" />
+      <node id="Shades of green" label="Shades of green" />
+      <node id="Shades of violet" label="Shades of violet" />
+      <node id="Variations of blue" label="Variations of blue" />
+      <node id="Variations of green" label="Variations of green" />
+      <node id="Color wheel" label="Color wheel" />
+      <node id="Cyan" label="Cyan" />
+      <node id="Pakistan green" label="Pakistan green" />
+      <node id="Shades of cyan" label="Shades of cyan" />
+      <node id="Spring green" label="Spring green" />
+      <node id="Teal" label="Teal" />
+      <node id="Analogous colors" label="Analogous colors" />
+      <node id="Chromaticity" label="Chromaticity" />
+      <node id="Color scheme" label="Color scheme" />
+      <node id="Color solid" label="Color solid" />
+      <node id="Colorfulness" label="Colorfulness" />
+      <node id="Hue" label="Hue" />
+      <node id="Paleness (color)" label="Paleness (color)" />
+      <node id="Purple" label="Purple" />
+      <node id="Red-violet" label="Red-violet" />
+      <node id="Sapphire (color)" label="Sapphire (color)" />
+      <node id="Shade of Blue" label="Shade of Blue" />
+      <node id="Shades of Blue (disambiguation)" label="Shades of Blue (disambiguation)" />
+      <node id="Shades of black" label="Shades of black" />
+      <node id="Shades of magenta" label="Shades of magenta" />
+      <node id="Shades of purple" label="Shades of purple" />
+      <node id="Shades of red" label="Shades of red" />
+      <node id="Shades of white" label="Shades of white" />
+      <node id="Shades of yellow" label="Shades of yellow" />
+      <node id="Tint, shade and tone" label="Tint, shade and tone" />
+      <node id="Tints and shades" label="Tints and shades" />
+      <node id="Violet (color)" label="Violet (color)" />
+      <node id="Web color" label="Web color" />
+      <node id="Web colors" label="Web colors" />
+      <node id="Talk:Shades of blue" label="Talk:Shades of blue" />
+      <node id="Brilliant blue FCF" label="Brilliant blue FCF" />
+      <node id="Blue 1" label="Blue 1" />
+      <node id="Duke blue" label="Duke blue" />
+      <node id="Carolina blue" label="Carolina blue" />
+      <node id="Blue colour works" label="Blue colour works" />
+      <node id="Cobalt(II) oxide" label="Cobalt(II) oxide" />
+      <node id="Cobalt blue (disambiguation)" label="Cobalt blue (disambiguation)" />
+      <node id="Cobalt glass" label="Cobalt glass" />
+      <node id="Color" label="Color" />
+      <node id="Animal coloration" label="Animal coloration" />
+      <node id="Color (disambiguation)" label="Color (disambiguation)" />
+      <node id="Color analysis" label="Color analysis" />
+      <node id="Color code" label="Color code" />
+      <node id="Color constancy" label="Color constancy" />
+      <node id="Color model" label="Color model" />
+      <node id="Color preferences" label="Color preferences" />
+      <node id="Color psychology" label="Color psychology" />
+      <node id="Color realism (art style)" label="Color realism (art style)" />
+      <node id="Color reproduction" label="Color reproduction" />
+      <node id="Color science" label="Color science" />
+      <node id="Color symbolism" label="Color symbolism" />
+      <node id="Color theory" label="Color theory" />
+      <node id="Color triangle" label="Color triangle" />
+      <node id="Color vision" label="Color vision" />
+      <node id="Colorful" label="Colorful" />
+      <node id="Evolution of color vision" label="Evolution of color vision" />
+      <node id="Grey" label="Grey" />
+      <node id="Harmony (color)" label="Harmony (color)" />
+      <node id="Human skin color" label="Human skin color" />
+      <node id="Impossible color" label="Impossible color" />
+      <node id="List of color spaces and their uses" label="List of color spaces and their uses" />
+      <node id="Neutral color" label="Neutral color" />
+      <node id="Orange (colour)" label="Orange (colour)" />
+      <node id="Philosophy of color" label="Philosophy of color" />
+      <node id="Planckian locus" label="Planckian locus" />
+      <node id="Primary color" label="Primary color" />
+      <node id="Secondary color" label="Secondary color" />
+      <node id="Spectral color" label="Spectral color" />
+      <node id="Structural coloration" label="Structural coloration" />
+      <node id="Tertiary color" label="Tertiary color" />
+      <node id="Unique hues" label="Unique hues" />
+      <node id="White" label="White" />
+      <node id="YUV" label="YUV" />
+      <node id="Yellow" label="Yellow" />
+      <node id="Color of water" label="Color of water" />
+      <node id="Ocean color" label="Ocean color" />
+      <node id="Subtractive color" label="Subtractive color" />
+      <node id="School color" label="School color" />
+      <node id="Additive primary colors" label="Additive primary colors" />
+      <node id="Ao (color)" label="Ao (color)" />
+      <node id="Chlorophyll" label="Chlorophyll" />
+      <node id="Cobalt green" label="Cobalt green" />
+      <node id="Forest green" label="Forest green" />
+      <node id="Green (disambiguation)" label="Green (disambiguation)" />
+      <node id="Green S" label="Green S" />
+      <node id="Green in Islam" label="Green in Islam" />
+      <node id="Green pigments" label="Green pigments" />
+      <node id="Hunter green" label="Hunter green" />
+      <node id="Jungle green" label="Jungle green" />
+      <node id="Lime (color)" label="Lime (color)" />
+      <node id="Orange (color)" label="Orange (color)" />
+      <node id="Paris green" label="Paris green" />
+      <node id="Persian green" label="Persian green" />
+      <node id="Primary colors" label="Primary colors" />
+      <node id="Shades of brown" label="Shades of brown" />
+      <node id="Template talk:Shades of green" label="Template talk:Shades of green" />
+      <node id="Byzantine blue" label="Byzantine blue" />
+      <node id="Light blue (disambiguation)" label="Light blue (disambiguation)" />
+      <node id="Light blue (web color)" label="Light blue (web color)" />
+      <node id="Midnight blue" label="Midnight blue" />
+      <node id="Amber (color)" label="Amber (color)" />
+      <node id="Black" label="Black" />
+      <node id="Black bean (color)" label="Black bean (color)" />
+      <node id="Brown" label="Brown" />
+      <node id="CMYK" label="CMYK" />
+      <node id="Café noir (color)" label="Café noir (color)" />
+      <node id="Electric blue (color)" label="Electric blue (color)" />
+      <node id="Gray" label="Gray" />
+      <node id="Honeydew (color)" label="Honeydew (color)" />
+      <node id="Light yellow" label="Light yellow" />
+      <node id="Old rose" label="Old rose" />
+      <node id="Papaya whip" label="Papaya whip" />
+      <node id="Rose ebony" label="Rose ebony" />
+      <node id="Rose vale" label="Rose vale" />
+      <node id="Rosewood (color)" label="Rosewood (color)" />
+      <node id="Tea rose (color)" label="Tea rose (color)" />
+      <node id="Alice blue" label="Alice blue" />
+      <node id="Midnight Blue (Lou Gramm song)" label="Midnight Blue (Lou Gramm song)" />
+      <node id="Midnight blue (disambiguation)" label="Midnight blue (disambiguation)" />
+      <node id="Night (color)" label="Night (color)" />
+      <node id="Cadet grey" label="Cadet grey" />
+      <node id="Navy blue (disambiguation)" label="Navy blue (disambiguation)" />
+      <node id="Citrus Red 2" label="Citrus Red 2" />
+      <node id="Colour" label="Colour" />
+      <node id="Indian red" label="Indian red" />
+      <node id="Orange (fruit)" label="Orange (fruit)" />
+      <node id="Orange (word)" label="Orange (word)" />
+      <node id="Portland Orange" label="Portland Orange" />
+      <node id="Primary colour" label="Primary colour" />
+      <node id="Red hair" label="Red hair" />
+      <node id="Safety orange" label="Safety orange" />
+      <node id="Scarlet (color)" label="Scarlet (color)" />
+      <node id="Tangerine (color)" label="Tangerine (color)" />
+      <node id="Eton blue" label="Eton blue" />
+      <node id="Oxford Blue" label="Oxford Blue" />
+      <node id="Powder Blue (disambiguation)" label="Powder Blue (disambiguation)" />
+      <node id="Additive color" label="Additive color" />
+      <node id="Additive mixing" label="Additive mixing" />
+      <node id="CIECAM02" label="CIECAM02" />
+      <node id="Color management" label="Color management" />
+      <node id="Color mixing" label="Color mixing" />
+      <node id="Color photography" label="Color photography" />
+      <node id="Color space" label="Color space" />
+      <node id="Colors" label="Colors" />
+      <node id="Complementary colors" label="Complementary colors" />
+      <node id="Gamut" label="Gamut" />
+      <node id="Primary Colors (disambiguation)" label="Primary Colors (disambiguation)" />
+      <node id="RGB" label="RGB" />
+      <node id="RGB color model" label="RGB color model" />
+      <node id="RGB color spaces" label="RGB color spaces" />
+      <node id="Red, Blue, and Yellow" label="Red, Blue, and Yellow" />
+      <node id="Reddish green" label="Reddish green" />
+      <node id="Subtractive mixing" label="Subtractive mixing" />
+      <node id="Primary colours" label="Primary colours" />
+      <node id="Han purple and Han blue" label="Han purple and Han blue" />
+      <node id="Methyl blue" label="Methyl blue" />
+      <node id="Prussian blue (disambiguation)" label="Prussian blue (disambiguation)" />
+      <node id="Prussian blue (medical use)" label="Prussian blue (medical use)" />
+      <node id="Born in the purple" label="Born in the purple" />
+      <node id="Byzantium (color)" label="Byzantium (color)" />
+      <node id="Carmine (color)" label="Carmine (color)" />
+      <node id="Crimson" label="Crimson" />
+      <node id="Dark purple" label="Dark purple" />
+      <node id="Hot magenta" label="Hot magenta" />
+      <node id="Lavender (color)" label="Lavender (color)" />
+      <node id="Lavender pink" label="Lavender pink" />
+      <node id="Lilac (color)" label="Lilac (color)" />
+      <node id="Line of purples" label="Line of purples" />
+      <node id="Magenta" label="Magenta" />
+      <node id="Magenta (Pantone)" label="Magenta (Pantone)" />
+      <node id="Magenta haze" label="Magenta haze" />
+      <node id="Manganese violet" label="Manganese violet" />
+      <node id="Orchid (color)" label="Orchid (color)" />
+      <node id="Periwinkle (color)" label="Periwinkle (color)" />
+      <node id="Purple (disambiguation)" label="Purple (disambiguation)" />
+      <node id="Purple bacteria" label="Purple bacteria" />
+      <node id="Purple pizzazz" label="Purple pizzazz" />
+      <node id="Purple prose" label="Purple prose" />
+      <node id="Quinacridone magenta" label="Quinacridone magenta" />
+      <node id="Razzle dazzle rose" label="Razzle dazzle rose" />
+      <node id="Shades of lavender" label="Shades of lavender" />
+      <node id="Shades of pink" label="Shades of pink" />
+      <node id="Sky magenta" label="Sky magenta" />
+      <node id="Steel pink" label="Steel pink" />
+      <node id="Telemagenta" label="Telemagenta" />
+      <node id="Tyrian Purple" label="Tyrian Purple" />
+      <node id="Tyrian purple" label="Tyrian purple" />
+      <node id="Barbie Pink" label="Barbie Pink" />
+      <node id="Blood red" label="Blood red" />
+      <node id="China rose (color)" label="China rose (color)" />
+      <node id="Colour realism (art style)" label="Colour realism (art style)" />
+      <node id="Colour solid" label="Colour solid" />
+      <node id="Deep pink" label="Deep pink" />
+      <node id="Persian pink" label="Persian pink" />
+      <node id="Persian red" label="Persian red" />
+      <node id="Razzmatazz (color)" label="Razzmatazz (color)" />
+      <node id="Red pigments" label="Red pigments" />
+      <node id="Rose (color)" label="Rose (color)" />
+      <node id="Ruby (color)" label="Ruby (color)" />
+      <node id="Rust (color)" label="Rust (color)" />
+      <node id="Secondary colour" label="Secondary colour" />
+      <node id="Shades of rose" label="Shades of rose" />
+      <node id="Wine (color)" label="Wine (color)" />
+      <node id="Imperial blue" label="Imperial blue" />
+      <node id="Imperial blue (disambiguation)" label="Imperial blue (disambiguation)" />
+      <node id="Red, White &amp; Royal Blue" label="Red, White &amp; Royal Blue" />
+      <node id="Royal Blue" label="Royal Blue" />
+      <node id="Royal Blue (disambiguation)" label="Royal Blue (disambiguation)" />
+      <node id="Logan Sapphire" label="Logan Sapphire" />
+      <node id="Sapphire" label="Sapphire" />
+      <node id="Sapphire (disambiguation)" label="Sapphire (disambiguation)" />
+      <node id="Sapphire blue" label="Sapphire blue" />
+      <node id="Blue-green" label="Blue-green" />
+      <node id="Talk:Shades of orange" label="Talk:Shades of orange" />
+      <node id="Sky blue" label="Sky blue" />
+      <node id="Bleu celeste" label="Bleu celeste" />
+      <node id="Sky (color)" label="Sky (color)" />
+      <node id="Sky Blue (disambiguation)" label="Sky Blue (disambiguation)" />
+    </nodes>
+    <edges>
+      <edge source="Blue" target="Air Force blue" id="0" />
+      <edge source="Blue" target="Azure (color)" id="1" />
+      <edge source="Blue" target="Baby blue" id="2" />
+      <edge source="Blue" target="Bleu de France (colour)" id="3" />
+      <edge source="Blue" target="Blue (disambiguation)" id="4" />
+      <edge source="Blue" target="Blue in culture" id="5" />
+      <edge source="Blue" target="Blue pigments" id="6" />
+      <edge source="Blue" target="Blue–green distinction in language" id="7" />
+      <edge source="Blue" target="Bondi blue" id="8" />
+      <edge source="Blue" target="Brandeis blue" id="9" />
+      <edge source="Blue" target="Brilliant blue FCF" id="10" />
+      <edge source="Blue" target="Cambridge Blue (colour)" id="11" />
+      <edge source="Blue" target="Carolina blue" id="12" />
+      <edge source="Blue" target="Cobalt blue" id="13" />
+      <edge source="Blue" target="Color" id="14" />
+      <edge source="Blue" target="Color of water" id="15" />
+      <edge source="Blue" target="Columbia blue" id="16" />
+      <edge source="Blue" target="Cornflower blue" id="17" />
+      <edge source="Blue" target="Green" id="18" />
+      <edge source="Blue" target="Light blue" id="19" />
+      <edge source="Blue" target="List of colors by shade" id="20" />
+      <edge source="Blue" target="List of colours by shade" id="21" />
+      <edge source="Blue" target="Marian blue" id="22" />
+      <edge source="Blue" target="Midnight blue" id="23" />
+      <edge source="Blue" target="Navy blue" id="24" />
+      <edge source="Blue" target="Orange (colour)" id="25" />
+      <edge source="Blue" target="Oxford Blue (colour)" id="26" />
+      <edge source="Blue" target="Powder blue" id="27" />
+      <edge source="Blue" target="Primary color" id="28" />
+      <edge source="Blue" target="Primary colour" id="29" />
+      <edge source="Blue" target="Primary colours" id="30" />
+      <edge source="Blue" target="Prussian blue" id="31" />
+      <edge source="Blue" target="Purple" id="32" />
+      <edge source="Blue" target="Red" id="33" />
+      <edge source="Blue" target="Royal blue" id="34" />
+      <edge source="Blue" target="Sapphire (color)" id="35" />
+      <edge source="Blue" target="Shades of azure" id="36" />
+      <edge source="Blue" target="Shades of blue" id="37" />
+      <edge source="Blue" target="Shades of cyan" id="38" />
+      <edge source="Blue" target="Shades of orange" id="39" />
+      <edge source="Blue" target="Sky blue" id="40" />
+      <edge source="Air Force blue" target="Baby blue" id="41" />
+      <edge source="Air Force blue" target="Bleu de France (colour)" id="42" />
+      <edge source="Air Force blue" target="Blue in culture" id="43" />
+      <edge source="Air Force blue" target="Brandeis blue" id="44" />
+      <edge source="Air Force blue" target="Cambridge Blue (colour)" id="45" />
+      <edge source="Air Force blue" target="Dodger blue" id="46" />
+      <edge source="Air Force blue" target="Light blue" id="47" />
+      <edge source="Air Force blue" target="List of colors by shade" id="48" />
+      <edge source="Air Force blue" target="Navy blue" id="49" />
+      <edge source="Air Force blue" target="Oxford Blue (colour)" id="50" />
+      <edge source="Air Force blue" target="Powder blue" id="51" />
+      <edge source="Air Force blue" target="Prussian blue" id="52" />
+      <edge source="Air Force blue" target="Royal Air Force uniform" id="53" />
+      <edge source="Air Force blue" target="Royal blue" id="54" />
+      <edge source="Air Force blue" target="Shades of azure" id="55" />
+      <edge source="Air Force blue" target="Shades of blue" id="56" />
+      <edge source="Air Force blue" target="Steel blue" id="57" />
+      <edge source="Air Force blue" target="United Nations blue" id="58" />
+      <edge source="Air Force blue" target="Yale Blue" id="59" />
+      <edge source="Air Force blue" target="List of colours by shade" id="60" />
+      <edge source="Baby blue" target="Baby blue (disambiguation)" id="61" />
+      <edge source="Baby blue" target="Bleu de France (colour)" id="62" />
+      <edge source="Baby blue" target="Brandeis blue" id="63" />
+      <edge source="Baby blue" target="Cambridge Blue (colour)" id="64" />
+      <edge source="Baby blue" target="Columbia blue" id="65" />
+      <edge source="Baby blue" target="Cornflower blue" id="66" />
+      <edge source="Baby blue" target="Dark blue (color)" id="67" />
+      <edge source="Baby blue" target="Light blue" id="68" />
+      <edge source="Baby blue" target="Marian blue" id="69" />
+      <edge source="Baby blue" target="Navy blue" id="70" />
+      <edge source="Baby blue" target="Powder blue" id="71" />
+      <edge source="Baby blue" target="Prussian blue" id="72" />
+      <edge source="Baby blue" target="Robin egg blue" id="73" />
+      <edge source="Baby blue" target="Royal blue" id="74" />
+      <edge source="Baby blue" target="Shades of azure" id="75" />
+      <edge source="Baby blue" target="Shades of blue" id="76" />
+      <edge source="Baby blue" target="Steel blue" id="77" />
+      <edge source="Baby blue" target="Tiffany Blue" id="78" />
+      <edge source="Baby blue" target="United Nations blue" id="79" />
+      <edge source="Baby blue" target="Blue in culture" id="80" />
+      <edge source="Bleu de France (colour)" target="Cambridge Blue (colour)" id="81" />
+      <edge source="Bleu de France (colour)" target="Columbia blue" id="82" />
+      <edge source="Bleu de France (colour)" target="Light blue" id="83" />
+      <edge source="Bleu de France (colour)" target="Marian blue" id="84" />
+      <edge source="Bleu de France (colour)" target="Navy blue" id="85" />
+      <edge source="Bleu de France (colour)" target="Oxford Blue (colour)" id="86" />
+      <edge source="Bleu de France (colour)" target="Prussian blue" id="87" />
+      <edge source="Bleu de France (colour)" target="Royal blue" id="88" />
+      <edge source="Bleu de France (colour)" target="Blue in culture" id="89" />
+      <edge source="Blue in culture" target="Blue (university sport)" id="90" />
+      <edge source="Blue in culture" target="Blue Shirts (disambiguation)" id="91" />
+      <edge source="Blue in culture" target="Blue and white porcelain" id="92" />
+      <edge source="Blue in culture" target="Blue pigments" id="93" />
+      <edge source="Blue in culture" target="Brandeis blue" id="94" />
+      <edge source="Blue in culture" target="Cambridge Blue (colour)" id="95" />
+      <edge source="Blue in culture" target="Cobalt blue" id="96" />
+      <edge source="Blue in culture" target="Columbia blue" id="97" />
+      <edge source="Blue in culture" target="Dodger blue" id="98" />
+      <edge source="Blue in culture" target="Han blue" id="99" />
+      <edge source="Blue in culture" target="Light blue" id="100" />
+      <edge source="Blue in culture" target="List of colors by shade" id="101" />
+      <edge source="Blue in culture" target="List of colours by shade" id="102" />
+      <edge source="Blue in culture" target="Marian blue" id="103" />
+      <edge source="Blue in culture" target="Maya blue" id="104" />
+      <edge source="Blue in culture" target="National colours" id="105" />
+      <edge source="Blue in culture" target="Navy blue" id="106" />
+      <edge source="Blue in culture" target="Oxford Blue (colour)" id="107" />
+      <edge source="Blue in culture" target="Picasso's Blue Period" id="108" />
+      <edge source="Blue in culture" target="Political colour" id="109" />
+      <edge source="Blue in culture" target="Powder blue" id="110" />
+      <edge source="Blue in culture" target="Prussian blue" id="111" />
+      <edge source="Blue in culture" target="Royal blue" id="112" />
+      <edge source="Blue in culture" target="Shades of azure" id="113" />
+      <edge source="Blue in culture" target="Shades of blue" id="114" />
+      <edge source="Blue in culture" target="St. Patrick's blue" id="115" />
+      <edge source="Blue in culture" target="Steel blue" id="116" />
+      <edge source="Blue in culture" target="Traditional colours of Japan" id="117" />
+      <edge source="Blue in culture" target="United Nations blue" id="118" />
+      <edge source="Blue in culture" target="Yale Blue" id="119" />
+      <edge source="Brandeis blue" target="Analogous colors" id="120" />
+      <edge source="Brandeis blue" target="Blue–green distinction in language" id="121" />
+      <edge source="Brandeis blue" target="Cambridge Blue (colour)" id="122" />
+      <edge source="Brandeis blue" target="Chromaticity" id="123" />
+      <edge source="Brandeis blue" target="Color scheme" id="124" />
+      <edge source="Brandeis blue" target="Color solid" id="125" />
+      <edge source="Brandeis blue" target="Color term" id="126" />
+      <edge source="Brandeis blue" target="Colorfulness" id="127" />
+      <edge source="Brandeis blue" target="Columbia blue" id="128" />
+      <edge source="Brandeis blue" target="Hue" id="129" />
+      <edge source="Brandeis blue" target="Light blue" id="130" />
+      <edge source="Brandeis blue" target="List of colors by shade" id="131" />
+      <edge source="Brandeis blue" target="Oxford Blue (colour)" id="132" />
+      <edge source="Brandeis blue" target="Paleness (color)" id="133" />
+      <edge source="Brandeis blue" target="Powder blue" id="134" />
+      <edge source="Brandeis blue" target="Purple" id="135" />
+      <edge source="Brandeis blue" target="Red-violet" id="136" />
+      <edge source="Brandeis blue" target="Sapphire (color)" id="137" />
+      <edge source="Brandeis blue" target="Shade of Blue" id="138" />
+      <edge source="Brandeis blue" target="Shades of Blue (disambiguation)" id="139" />
+      <edge source="Brandeis blue" target="Shades of azure" id="140" />
+      <edge source="Brandeis blue" target="Shades of black" id="141" />
+      <edge source="Brandeis blue" target="Shades of blue" id="142" />
+      <edge source="Brandeis blue" target="Shades of green" id="143" />
+      <edge source="Brandeis blue" target="Shades of magenta" id="144" />
+      <edge source="Brandeis blue" target="Shades of purple" id="145" />
+      <edge source="Brandeis blue" target="Shades of red" id="146" />
+      <edge source="Brandeis blue" target="Shades of violet" id="147" />
+      <edge source="Brandeis blue" target="Shades of white" id="148" />
+      <edge source="Brandeis blue" target="Shades of yellow" id="149" />
+      <edge source="Brandeis blue" target="Steel blue" id="150" />
+      <edge source="Brandeis blue" target="Tint, shade and tone" id="151" />
+      <edge source="Brandeis blue" target="Tints and shades" id="152" />
+      <edge source="Brandeis blue" target="United Nations blue" id="153" />
+      <edge source="Brandeis blue" target="Violet (color)" id="154" />
+      <edge source="Brandeis blue" target="Web color" id="155" />
+      <edge source="Brandeis blue" target="Web colors" id="156" />
+      <edge source="Brandeis blue" target="Talk:Shades of blue" id="157" />
+      <edge source="Brandeis blue" target="List of colours by shade" id="158" />
+      <edge source="Cambridge Blue (colour)" target="Blue (university sport)" id="159" />
+      <edge source="Cambridge Blue (colour)" target="Columbia blue" id="160" />
+      <edge source="Cambridge Blue (colour)" target="Duke blue" id="161" />
+      <edge source="Cambridge Blue (colour)" target="Marian blue" id="162" />
+      <edge source="Cambridge Blue (colour)" target="Navy blue" id="163" />
+      <edge source="Cambridge Blue (colour)" target="Oxford Blue (colour)" id="164" />
+      <edge source="Cambridge Blue (colour)" target="Powder blue" id="165" />
+      <edge source="Cambridge Blue (colour)" target="Prussian blue" id="166" />
+      <edge source="Cambridge Blue (colour)" target="Royal blue" id="167" />
+      <edge source="Cambridge Blue (colour)" target="Shades of azure" id="168" />
+      <edge source="Cambridge Blue (colour)" target="Shades of blue" id="169" />
+      <edge source="Cambridge Blue (colour)" target="Steel blue" id="170" />
+      <edge source="Cambridge Blue (colour)" target="United Nations blue" id="171" />
+      <edge source="Cambridge Blue (colour)" target="Yale Blue" id="172" />
+      <edge source="Dodger blue" target="Royal blue" id="173" />
+      <edge source="Light blue" target="Columbia blue" id="174" />
+      <edge source="Light blue" target="Byzantine blue" id="175" />
+      <edge source="Light blue" target="Light blue (disambiguation)" id="176" />
+      <edge source="Light blue" target="Light blue (web color)" id="177" />
+      <edge source="Light blue" target="Marian blue" id="178" />
+      <edge source="Light blue" target="Midnight blue" id="179" />
+      <edge source="Light blue" target="Navy blue" id="180" />
+      <edge source="Light blue" target="Prussian blue" id="181" />
+      <edge source="Light blue" target="Royal blue" id="182" />
+      <edge source="Light blue" target="Shades of azure" id="183" />
+      <edge source="Light blue" target="Shades of blue" id="184" />
+      <edge source="Light blue" target="Steel blue" id="185" />
+      <edge source="Light blue" target="United Nations blue" id="186" />
+      <edge source="Light blue" target="Yale Blue" id="187" />
+      <edge source="Light blue" target="List of colors by shade" id="188" />
+      <edge source="Light blue" target="List of colours by shade" id="189" />
+      <edge source="List of colors by shade" target="Azure (color)" id="190" />
+      <edge source="List of colors by shade" target="Blue–green distinction in language" id="191" />
+      <edge source="List of colors by shade" target="Color" id="192" />
+      <edge source="List of colors by shade" target="Color of water" id="193" />
+      <edge source="List of colors by shade" target="Green" id="194" />
+      <edge source="List of colors by shade" target="Amber (color)" id="195" />
+      <edge source="List of colors by shade" target="Black" id="196" />
+      <edge source="List of colors by shade" target="Black bean (color)" id="197" />
+      <edge source="List of colors by shade" target="Brown" id="198" />
+      <edge source="List of colors by shade" target="CMYK" id="199" />
+      <edge source="List of colors by shade" target="Café noir (color)" id="200" />
+      <edge source="List of colors by shade" target="Color solid" id="201" />
+      <edge source="List of colors by shade" target="Color term" id="202" />
+      <edge source="List of colors by shade" target="Columbia blue" id="203" />
+      <edge source="List of colors by shade" target="Electric blue (color)" id="204" />
+      <edge source="List of colors by shade" target="Gray" id="205" />
+      <edge source="List of colors by shade" target="Grey" id="206" />
+      <edge source="List of colors by shade" target="Honeydew (color)" id="207" />
+      <edge source="List of colors by shade" target="Hue" id="208" />
+      <edge source="List of colors by shade" target="Impossible color" id="209" />
+      <edge source="List of colors by shade" target="Light yellow" id="210" />
+      <edge source="List of colors by shade" target="Old rose" id="211" />
+      <edge source="List of colors by shade" target="Orange (colour)" id="212" />
+      <edge source="List of colors by shade" target="Pakistan green" id="213" />
+      <edge source="List of colors by shade" target="Papaya whip" id="214" />
+      <edge source="List of colors by shade" target="Primary color" id="215" />
+      <edge source="List of colors by shade" target="Purple" id="216" />
+      <edge source="List of colors by shade" target="Red" id="217" />
+      <edge source="List of colors by shade" target="Rose ebony" id="218" />
+      <edge source="List of colors by shade" target="Rose vale" id="219" />
+      <edge source="List of colors by shade" target="Rosewood (color)" id="220" />
+      <edge source="List of colors by shade" target="Secondary color" id="221" />
+      <edge source="List of colors by shade" target="Shades of azure" id="222" />
+      <edge source="List of colors by shade" target="Shades of black" id="223" />
+      <edge source="List of colors by shade" target="Shades of blue" id="224" />
+      <edge source="List of colors by shade" target="Shades of brown" id="225" />
+      <edge source="List of colors by shade" target="Shades of green" id="226" />
+      <edge source="List of colors by shade" target="Shades of orange" id="227" />
+      <edge source="List of colors by shade" target="Shades of red" id="228" />
+      <edge source="List of colors by shade" target="Shades of yellow" id="229" />
+      <edge source="List of colors by shade" target="Spectral color" id="230" />
+      <edge source="List of colors by shade" target="Steel blue" id="231" />
+      <edge source="List of colors by shade" target="Tea rose (color)" id="232" />
+      <edge source="List of colors by shade" target="Tertiary color" id="233" />
+      <edge source="List of colors by shade" target="Tint, shade and tone" id="234" />
+      <edge source="List of colors by shade" target="United Nations blue" id="235" />
+      <edge source="List of colors by shade" target="Violet (color)" id="236" />
+      <edge source="List of colors by shade" target="Yellow" id="237" />
+      <edge source="List of colors by shade" target="Primary colour" id="238" />
+      <edge source="List of colors by shade" target="Primary colours" id="239" />
+      <edge source="Navy blue" target="Columbia blue" id="240" />
+      <edge source="Navy blue" target="Marian blue" id="241" />
+      <edge source="Navy blue" target="Cadet grey" id="242" />
+      <edge source="Navy blue" target="Duke blue" id="243" />
+      <edge source="Navy blue" target="Navy blue (disambiguation)" id="244" />
+      <edge source="Navy blue" target="Oxford Blue (colour)" id="245" />
+      <edge source="Navy blue" target="Powder blue" id="246" />
+      <edge source="Navy blue" target="Prussian blue" id="247" />
+      <edge source="Navy blue" target="Royal blue" id="248" />
+      <edge source="Navy blue" target="Steel blue" id="249" />
+      <edge source="Navy blue" target="Yale Blue" id="250" />
+      <edge source="Oxford Blue (colour)" target="Columbia blue" id="251" />
+      <edge source="Oxford Blue (colour)" target="Marian blue" id="252" />
+      <edge source="Oxford Blue (colour)" target="Blue (university sport)" id="253" />
+      <edge source="Oxford Blue (colour)" target="Eton blue" id="254" />
+      <edge source="Oxford Blue (colour)" target="Oxford Blue" id="255" />
+      <edge source="Oxford Blue (colour)" target="Powder blue" id="256" />
+      <edge source="Oxford Blue (colour)" target="Prussian blue" id="257" />
+      <edge source="Oxford Blue (colour)" target="Royal blue" id="258" />
+      <edge source="Oxford Blue (colour)" target="Shades of azure" id="259" />
+      <edge source="Oxford Blue (colour)" target="Shades of blue" id="260" />
+      <edge source="Oxford Blue (colour)" target="St. Patrick's blue" id="261" />
+      <edge source="Oxford Blue (colour)" target="Steel blue" id="262" />
+      <edge source="Oxford Blue (colour)" target="United Nations blue" id="263" />
+      <edge source="Oxford Blue (colour)" target="Yale Blue" id="264" />
+      <edge source="Powder blue" target="Cobalt blue" id="265" />
+      <edge source="Powder blue" target="Columbia blue" id="266" />
+      <edge source="Powder blue" target="Powder Blue (disambiguation)" id="267" />
+      <edge source="Powder blue" target="Prussian blue" id="268" />
+      <edge source="Powder blue" target="Royal blue" id="269" />
+      <edge source="Powder blue" target="Shades of azure" id="270" />
+      <edge source="Powder blue" target="Shades of blue" id="271" />
+      <edge source="Powder blue" target="Steel blue" id="272" />
+      <edge source="Powder blue" target="United Nations blue" id="273" />
+      <edge source="Prussian blue" target="Blue pigments" id="274" />
+      <edge source="Prussian blue" target="Carolina blue" id="275" />
+      <edge source="Prussian blue" target="Cobalt blue" id="276" />
+      <edge source="Prussian blue" target="Columbia blue" id="277" />
+      <edge source="Prussian blue" target="Marian blue" id="278" />
+      <edge source="Prussian blue" target="Han purple and Han blue" id="279" />
+      <edge source="Prussian blue" target="Methyl blue" id="280" />
+      <edge source="Prussian blue" target="Prussian blue (disambiguation)" id="281" />
+      <edge source="Prussian blue" target="Prussian blue (medical use)" id="282" />
+      <edge source="Prussian blue" target="Royal blue" id="283" />
+      <edge source="Prussian blue" target="Steel blue" id="284" />
+      <edge source="Prussian blue" target="YInMn Blue" id="285" />
+      <edge source="Royal blue" target="Carolina blue" id="286" />
+      <edge source="Royal blue" target="Columbia blue" id="287" />
+      <edge source="Royal blue" target="Cornflower blue" id="288" />
+      <edge source="Royal blue" target="Marian blue" id="289" />
+      <edge source="Royal blue" target="Duke blue" id="290" />
+      <edge source="Royal blue" target="Imperial blue" id="291" />
+      <edge source="Royal blue" target="Imperial blue (disambiguation)" id="292" />
+      <edge source="Royal blue" target="Red, White &amp; Royal Blue" id="293" />
+      <edge source="Royal blue" target="Royal Blue" id="294" />
+      <edge source="Royal blue" target="Royal Blue (disambiguation)" id="295" />
+      <edge source="Royal blue" target="Steel blue" id="296" />
+      <edge source="Royal blue" target="Yale Blue" id="297" />
+      <edge source="Shades of azure" target="Columbia blue" id="298" />
+      <edge source="Shades of azure" target="List of colours by shade" id="299" />
+      <edge source="Shades of azure" target="Purple" id="300" />
+      <edge source="Shades of azure" target="Sapphire (color)" id="301" />
+      <edge source="Shades of azure" target="Analogous colors" id="302" />
+      <edge source="Shades of azure" target="Blue–green distinction in language" id="303" />
+      <edge source="Shades of azure" target="Chromaticity" id="304" />
+      <edge source="Shades of azure" target="Color scheme" id="305" />
+      <edge source="Shades of azure" target="Color solid" id="306" />
+      <edge source="Shades of azure" target="Color term" id="307" />
+      <edge source="Shades of azure" target="Colorfulness" id="308" />
+      <edge source="Shades of azure" target="Hue" id="309" />
+      <edge source="Shades of azure" target="Paleness (color)" id="310" />
+      <edge source="Shades of azure" target="Red-violet" id="311" />
+      <edge source="Shades of azure" target="Shade of Blue" id="312" />
+      <edge source="Shades of azure" target="Shades of Blue (disambiguation)" id="313" />
+      <edge source="Shades of azure" target="Shades of black" id="314" />
+      <edge source="Shades of azure" target="Shades of blue" id="315" />
+      <edge source="Shades of azure" target="Shades of green" id="316" />
+      <edge source="Shades of azure" target="Shades of magenta" id="317" />
+      <edge source="Shades of azure" target="Shades of purple" id="318" />
+      <edge source="Shades of azure" target="Shades of red" id="319" />
+      <edge source="Shades of azure" target="Shades of violet" id="320" />
+      <edge source="Shades of azure" target="Shades of white" id="321" />
+      <edge source="Shades of azure" target="Shades of yellow" id="322" />
+      <edge source="Shades of azure" target="Steel blue" id="323" />
+      <edge source="Shades of azure" target="Tint, shade and tone" id="324" />
+      <edge source="Shades of azure" target="Tints and shades" id="325" />
+      <edge source="Shades of azure" target="United Nations blue" id="326" />
+      <edge source="Shades of azure" target="Violet (color)" id="327" />
+      <edge source="Shades of azure" target="Web color" id="328" />
+      <edge source="Shades of azure" target="Web colors" id="329" />
+      <edge source="Shades of azure" target="Talk:Shades of blue" id="330" />
+      <edge source="Shades of blue" target="Blue–green distinction in language" id="331" />
+      <edge source="Shades of blue" target="Columbia blue" id="332" />
+      <edge source="Shades of blue" target="List of colours by shade" id="333" />
+      <edge source="Shades of blue" target="Purple" id="334" />
+      <edge source="Shades of blue" target="Sapphire (color)" id="335" />
+      <edge source="Shades of blue" target="Analogous colors" id="336" />
+      <edge source="Shades of blue" target="Chromaticity" id="337" />
+      <edge source="Shades of blue" target="Color scheme" id="338" />
+      <edge source="Shades of blue" target="Color solid" id="339" />
+      <edge source="Shades of blue" target="Color term" id="340" />
+      <edge source="Shades of blue" target="Colorfulness" id="341" />
+      <edge source="Shades of blue" target="Hue" id="342" />
+      <edge source="Shades of blue" target="Paleness (color)" id="343" />
+      <edge source="Shades of blue" target="Red-violet" id="344" />
+      <edge source="Shades of blue" target="Shade of Blue" id="345" />
+      <edge source="Shades of blue" target="Shades of Blue (disambiguation)" id="346" />
+      <edge source="Shades of blue" target="Shades of black" id="347" />
+      <edge source="Shades of blue" target="Shades of green" id="348" />
+      <edge source="Shades of blue" target="Shades of magenta" id="349" />
+      <edge source="Shades of blue" target="Shades of purple" id="350" />
+      <edge source="Shades of blue" target="Shades of red" id="351" />
+      <edge source="Shades of blue" target="Shades of violet" id="352" />
+      <edge source="Shades of blue" target="Shades of white" id="353" />
+      <edge source="Shades of blue" target="Shades of yellow" id="354" />
+      <edge source="Shades of blue" target="Steel blue" id="355" />
+      <edge source="Shades of blue" target="Tint, shade and tone" id="356" />
+      <edge source="Shades of blue" target="Tints and shades" id="357" />
+      <edge source="Shades of blue" target="United Nations blue" id="358" />
+      <edge source="Shades of blue" target="Violet (color)" id="359" />
+      <edge source="Shades of blue" target="Web color" id="360" />
+      <edge source="Shades of blue" target="Web colors" id="361" />
+      <edge source="Shades of blue" target="Talk:Shades of blue" id="362" />
+      <edge source="Steel blue" target="Cobalt blue" id="363" />
+      <edge source="Steel blue" target="Columbia blue" id="364" />
+      <edge source="Steel blue" target="List of colours by shade" id="365" />
+      <edge source="Steel blue" target="Marian blue" id="366" />
+      <edge source="United Nations blue" target="Columbia blue" id="367" />
+      <edge source="United Nations blue" target="List of colours by shade" id="368" />
+      <edge source="United Nations blue" target="Purple" id="369" />
+      <edge source="United Nations blue" target="Sapphire (color)" id="370" />
+      <edge source="Yale Blue" target="Cobalt blue" id="371" />
+      <edge source="Yale Blue" target="Columbia blue" id="372" />
+      <edge source="Yale Blue" target="Marian blue" id="373" />
+      <edge source="Yale Blue" target="Midnight blue" id="374" />
+      <edge source="Azure (color)" target="Aqua (color)" id="375" />
+      <edge source="Azure (color)" target="Aquamarine (color)" id="376" />
+      <edge source="Azure (color)" target="Azure (disambiguation)" id="377" />
+      <edge source="Azure (color)" target="Azure (heraldry)" id="378" />
+      <edge source="Azure (color)" target="Azure blue" id="379" />
+      <edge source="Azure (color)" target="Bondi blue" id="380" />
+      <edge source="Azure (color)" target="Red" id="381" />
+      <edge source="Azure (color)" target="Shades of orange" id="382" />
+      <edge source="Azure (color)" target="List of colours by shade" id="383" />
+      <edge source="Aqua (color)" target="Bondi blue" id="384" />
+      <edge source="Aqua (color)" target="Green" id="385" />
+      <edge source="Aqua (color)" target="Shades of cyan" id="386" />
+      <edge source="Bondi blue" target="Color wheel" id="387" />
+      <edge source="Bondi blue" target="Cyan" id="388" />
+      <edge source="Bondi blue" target="Green" id="389" />
+      <edge source="Bondi blue" target="Pakistan green" id="390" />
+      <edge source="Bondi blue" target="Red" id="391" />
+      <edge source="Bondi blue" target="Shades of cyan" id="392" />
+      <edge source="Bondi blue" target="Shades of green" id="393" />
+      <edge source="Bondi blue" target="Spring green" id="394" />
+      <edge source="Bondi blue" target="Teal" id="395" />
+      <edge source="Red" target="Color" id="396" />
+      <edge source="Red" target="Green" id="397" />
+      <edge source="Red" target="List of colours by shade" id="398" />
+      <edge source="Red" target="Orange (colour)" id="399" />
+      <edge source="Red" target="Primary color" id="400" />
+      <edge source="Red" target="Primary colour" id="401" />
+      <edge source="Red" target="Primary colours" id="402" />
+      <edge source="Red" target="Purple" id="403" />
+      <edge source="Red" target="Additive primary colors" id="404" />
+      <edge source="Red" target="Barbie Pink" id="405" />
+      <edge source="Red" target="Blood red" id="406" />
+      <edge source="Red" target="Brown" id="407" />
+      <edge source="Red" target="China rose (color)" id="408" />
+      <edge source="Red" target="Colour realism (art style)" id="409" />
+      <edge source="Red" target="Colour solid" id="410" />
+      <edge source="Red" target="Crimson" id="411" />
+      <edge source="Red" target="Deep pink" id="412" />
+      <edge source="Red" target="Hue" id="413" />
+      <edge source="Red" target="Indian red" id="414" />
+      <edge source="Red" target="Magenta" id="415" />
+      <edge source="Red" target="Old rose" id="416" />
+      <edge source="Red" target="Orange (color)" id="417" />
+      <edge source="Red" target="Persian pink" id="418" />
+      <edge source="Red" target="Persian red" id="419" />
+      <edge source="Red" target="Political colour" id="420" />
+      <edge source="Red" target="RGB" id="421" />
+      <edge source="Red" target="RGB color model" id="422" />
+      <edge source="Red" target="Razzle dazzle rose" id="423" />
+      <edge source="Red" target="Razzmatazz (color)" id="424" />
+      <edge source="Red" target="Red-violet" id="425" />
+      <edge source="Red" target="Red hair" id="426" />
+      <edge source="Red" target="Red pigments" id="427" />
+      <edge source="Red" target="Rose (color)" id="428" />
+      <edge source="Red" target="Rose ebony" id="429" />
+      <edge source="Red" target="Rose vale" id="430" />
+      <edge source="Red" target="Rosewood (color)" id="431" />
+      <edge source="Red" target="Ruby (color)" id="432" />
+      <edge source="Red" target="Rust (color)" id="433" />
+      <edge source="Red" target="Scarlet (color)" id="434" />
+      <edge source="Red" target="Secondary colour" id="435" />
+      <edge source="Red" target="Shades of brown" id="436" />
+      <edge source="Red" target="Shades of cyan" id="437" />
+      <edge source="Red" target="Shades of magenta" id="438" />
+      <edge source="Red" target="Shades of orange" id="439" />
+      <edge source="Red" target="Shades of pink" id="440" />
+      <edge source="Red" target="Shades of red" id="441" />
+      <edge source="Red" target="Shades of rose" id="442" />
+      <edge source="Red" target="Shades of yellow" id="443" />
+      <edge source="Red" target="Tea rose (color)" id="444" />
+      <edge source="Red" target="Telemagenta" id="445" />
+      <edge source="Red" target="Violet (color)" id="446" />
+      <edge source="Red" target="Wine (color)" id="447" />
+      <edge source="Red" target="Yellow" id="448" />
+      <edge source="Shades of orange" target="List of colours by shade" id="449" />
+      <edge source="Shades of orange" target="Orange (colour)" id="450" />
+      <edge source="Shades of orange" target="Primary color" id="451" />
+      <edge source="Shades of orange" target="Primary colour" id="452" />
+      <edge source="Shades of orange" target="Primary colours" id="453" />
+      <edge source="Shades of orange" target="Amber (color)" id="454" />
+      <edge source="Shades of orange" target="Color solid" id="455" />
+      <edge source="Shades of orange" target="Colorfulness" id="456" />
+      <edge source="Shades of orange" target="Hue" id="457" />
+      <edge source="Shades of orange" target="Light yellow" id="458" />
+      <edge source="Shades of orange" target="Portland Orange" id="459" />
+      <edge source="Shades of orange" target="Rose (color)" id="460" />
+      <edge source="Shades of orange" target="Safety orange" id="461" />
+      <edge source="Shades of orange" target="Shades of brown" id="462" />
+      <edge source="Shades of orange" target="Shades of red" id="463" />
+      <edge source="Shades of orange" target="Shades of yellow" id="464" />
+      <edge source="Shades of orange" target="Tangerine (color)" id="465" />
+      <edge source="Shades of orange" target="Yellow" id="466" />
+      <edge source="Shades of orange" target="Talk:Shades of orange" id="467" />
+      <edge source="Columbia blue" target="Carolina blue" id="468" />
+      <edge source="Columbia blue" target="Cobalt blue" id="469" />
+      <edge source="Columbia blue" target="Duke blue" id="470" />
+      <edge source="Columbia blue" target="Marian blue" id="471" />
+      <edge source="Columbia blue" target="School color" id="472" />
+      <edge source="Columbia blue" target="List of colours by shade" id="473" />
+      <edge source="Cornflower blue" target="Sapphire (color)" id="474" />
+      <edge source="Marian blue" target="Cobalt blue" id="475" />
+      <edge source="Marian blue" target="Alice blue" id="476" />
+      <edge source="Marian blue" target="Byzantine blue" id="477" />
+      <edge source="Marian blue" target="Maya blue" id="478" />
+      <edge source="Marian blue" target="YInMn Blue" id="479" />
+      <edge source="Blue (disambiguation)" target="Blue, Arizona" id="480" />
+      <edge source="Blue (disambiguation)" target="Blue, Indiana" id="481" />
+      <edge source="Blue (disambiguation)" target="Blue, Oklahoma" id="482" />
+      <edge source="Blue (disambiguation)" target="Blue, West Virginia" id="483" />
+      <edge source="Blue (disambiguation)" target="Blue (name)" id="484" />
+      <edge source="Blue (disambiguation)" target="Blue Inc" id="485" />
+      <edge source="Blue (disambiguation)" target="Blue Mountain (disambiguation)" id="486" />
+      <edge source="Blue (disambiguation)" target="Blue Mountains (disambiguation)" id="487" />
+      <edge source="Blue (disambiguation)" target="Blue River (disambiguation)" id="488" />
+      <edge source="Blue (disambiguation)" target="Blued (disambiguation)" id="489" />
+      <edge source="Blue (disambiguation)" target="Bluey (disambiguation)" id="490" />
+      <edge source="Blue (disambiguation)" target="The Blue (disambiguation)" id="491" />
+      <edge source="Blue and white porcelain" target="Cobalt blue" id="492" />
+      <edge source="Blue pigments" target="Azurite (pigment)" id="493" />
+      <edge source="Blue pigments" target="Cobalt blue" id="494" />
+      <edge source="Blue pigments" target="Egyptian blue" id="495" />
+      <edge source="Blue pigments" target="Han blue" id="496" />
+      <edge source="Blue pigments" target="Han purple" id="497" />
+      <edge source="Blue pigments" target="List of inorganic pigments" id="498" />
+      <edge source="Blue pigments" target="Maya blue" id="499" />
+      <edge source="Blue pigments" target="Pigment" id="500" />
+      <edge source="Blue pigments" target="Pigments" id="501" />
+      <edge source="Blue pigments" target="Ultramarine" id="502" />
+      <edge source="Blue pigments" target="YInMn Blue" id="503" />
+      <edge source="Cobalt blue" target="Blue colour works" id="504" />
+      <edge source="Cobalt blue" target="Cobalt(II) oxide" id="505" />
+      <edge source="Cobalt blue" target="Cobalt blue (disambiguation)" id="506" />
+      <edge source="Cobalt blue" target="Cobalt glass" id="507" />
+      <edge source="Cobalt blue" target="List of inorganic pigments" id="508" />
+      <edge source="Cobalt blue" target="Maya blue" id="509" />
+      <edge source="Cobalt blue" target="Sapphire (color)" id="510" />
+      <edge source="Cobalt blue" target="YInMn Blue" id="511" />
+      <edge source="Han blue" target="Purple" id="512" />
+      <edge source="List of colours by shade" target="Amber (color)" id="513" />
+      <edge source="List of colours by shade" target="Black" id="514" />
+      <edge source="List of colours by shade" target="Black bean (color)" id="515" />
+      <edge source="List of colours by shade" target="Blue–green distinction in language" id="516" />
+      <edge source="List of colours by shade" target="Brown" id="517" />
+      <edge source="List of colours by shade" target="CMYK" id="518" />
+      <edge source="List of colours by shade" target="Café noir (color)" id="519" />
+      <edge source="List of colours by shade" target="Color" id="520" />
+      <edge source="List of colours by shade" target="Color of water" id="521" />
+      <edge source="List of colours by shade" target="Color solid" id="522" />
+      <edge source="List of colours by shade" target="Color term" id="523" />
+      <edge source="List of colours by shade" target="Electric blue (color)" id="524" />
+      <edge source="List of colours by shade" target="Gray" id="525" />
+      <edge source="List of colours by shade" target="Green" id="526" />
+      <edge source="List of colours by shade" target="Grey" id="527" />
+      <edge source="List of colours by shade" target="Honeydew (color)" id="528" />
+      <edge source="List of colours by shade" target="Hue" id="529" />
+      <edge source="List of colours by shade" target="Impossible color" id="530" />
+      <edge source="List of colours by shade" target="Light yellow" id="531" />
+      <edge source="List of colours by shade" target="Old rose" id="532" />
+      <edge source="List of colours by shade" target="Orange (colour)" id="533" />
+      <edge source="List of colours by shade" target="Pakistan green" id="534" />
+      <edge source="List of colours by shade" target="Papaya whip" id="535" />
+      <edge source="List of colours by shade" target="Primary color" id="536" />
+      <edge source="List of colours by shade" target="Purple" id="537" />
+      <edge source="List of colours by shade" target="Rose ebony" id="538" />
+      <edge source="List of colours by shade" target="Rose vale" id="539" />
+      <edge source="List of colours by shade" target="Rosewood (color)" id="540" />
+      <edge source="List of colours by shade" target="Secondary color" id="541" />
+      <edge source="List of colours by shade" target="Shades of black" id="542" />
+      <edge source="List of colours by shade" target="Shades of brown" id="543" />
+      <edge source="List of colours by shade" target="Shades of green" id="544" />
+      <edge source="List of colours by shade" target="Shades of red" id="545" />
+      <edge source="List of colours by shade" target="Shades of yellow" id="546" />
+      <edge source="List of colours by shade" target="Spectral color" id="547" />
+      <edge source="List of colours by shade" target="Tea rose (color)" id="548" />
+      <edge source="List of colours by shade" target="Tertiary color" id="549" />
+      <edge source="List of colours by shade" target="Tint, shade and tone" id="550" />
+      <edge source="List of colours by shade" target="Violet (color)" id="551" />
+      <edge source="List of colours by shade" target="Yellow" id="552" />
+      <edge source="Political colour" target="Primary color" id="553" />
+      <edge source="Political colour" target="Primary colour" id="554" />
+      <edge source="Political colour" target="Primary colours" id="555" />
+      <edge source="Political colour" target="Purple" id="556" />
+      <edge source="Han purple" target="Purple" id="557" />
+      <edge source="Blue–green distinction in language" target="Basic color terms" id="558" />
+      <edge source="Blue–green distinction in language" target="Color term" id="559" />
+      <edge source="Blue–green distinction in language" target="Green" id="560" />
+      <edge source="Blue–green distinction in language" target="Shades of green" id="561" />
+      <edge source="Blue–green distinction in language" target="Shades of violet" id="562" />
+      <edge source="Blue–green distinction in language" target="Variations of blue" id="563" />
+      <edge source="Blue–green distinction in language" target="Variations of green" id="564" />
+      <edge source="Color term" target="Color" id="565" />
+      <edge source="Color term" target="Primary color" id="566" />
+      <edge source="Color term" target="Primary colour" id="567" />
+      <edge source="Color term" target="Primary colours" id="568" />
+      <edge source="Green" target="Additive primary colors" id="569" />
+      <edge source="Green" target="Ao (color)" id="570" />
+      <edge source="Green" target="Chlorophyll" id="571" />
+      <edge source="Green" target="Cobalt green" id="572" />
+      <edge source="Green" target="Cyan" id="573" />
+      <edge source="Green" target="Forest green" id="574" />
+      <edge source="Green" target="Green (disambiguation)" id="575" />
+      <edge source="Green" target="Green S" id="576" />
+      <edge source="Green" target="Green in Islam" id="577" />
+      <edge source="Green" target="Green pigments" id="578" />
+      <edge source="Green" target="Hue" id="579" />
+      <edge source="Green" target="Hunter green" id="580" />
+      <edge source="Green" target="Jungle green" id="581" />
+      <edge source="Green" target="Lime (color)" id="582" />
+      <edge source="Green" target="Orange (color)" id="583" />
+      <edge source="Green" target="Orange (colour)" id="584" />
+      <edge source="Green" target="Pakistan green" id="585" />
+      <edge source="Green" target="Paris green" id="586" />
+      <edge source="Green" target="Persian green" id="587" />
+      <edge source="Green" target="Primary color" id="588" />
+      <edge source="Green" target="Primary colors" id="589" />
+      <edge source="Green" target="Shades of brown" id="590" />
+      <edge source="Green" target="Shades of cyan" id="591" />
+      <edge source="Green" target="Shades of green" id="592" />
+      <edge source="Green" target="Shades of yellow" id="593" />
+      <edge source="Green" target="Spring green" id="594" />
+      <edge source="Green" target="Violet (color)" id="595" />
+      <edge source="Green" target="Yellow" id="596" />
+      <edge source="Green" target="Template talk:Shades of green" id="597" />
+      <edge source="Green" target="Primary colour" id="598" />
+      <edge source="Green" target="Primary colours" id="599" />
+      <edge source="Shades of green" target="Primary color" id="600" />
+      <edge source="Shades of green" target="Primary colour" id="601" />
+      <edge source="Shades of green" target="Primary colours" id="602" />
+      <edge source="Shades of violet" target="Purple" id="603" />
+      <edge source="Cyan" target="Shades of cyan" id="604" />
+      <edge source="Shades of cyan" target="Blue-green" id="605" />
+      <edge source="Shades of cyan" target="Jungle green" id="606" />
+      <edge source="Shades of cyan" target="Magenta" id="607" />
+      <edge source="Shades of cyan" target="Persian green" id="608" />
+      <edge source="Shades of cyan" target="Shades of magenta" id="609" />
+      <edge source="Shades of cyan" target="Teal" id="610" />
+      <edge source="Analogous colors" target="Color" id="611" />
+      <edge source="Analogous colors" target="Primary color" id="612" />
+      <edge source="Analogous colors" target="Primary colour" id="613" />
+      <edge source="Analogous colors" target="Primary colours" id="614" />
+      <edge source="Chromaticity" target="Color" id="615" />
+      <edge source="Chromaticity" target="Color of water" id="616" />
+      <edge source="Chromaticity" target="Primary color" id="617" />
+      <edge source="Chromaticity" target="Primary colour" id="618" />
+      <edge source="Chromaticity" target="Primary colours" id="619" />
+      <edge source="Color scheme" target="Color" id="620" />
+      <edge source="Color scheme" target="Primary color" id="621" />
+      <edge source="Color scheme" target="Primary colour" id="622" />
+      <edge source="Color scheme" target="Primary colours" id="623" />
+      <edge source="Color solid" target="Color" id="624" />
+      <edge source="Color solid" target="Primary color" id="625" />
+      <edge source="Color solid" target="Primary colour" id="626" />
+      <edge source="Color solid" target="Primary colours" id="627" />
+      <edge source="Colorfulness" target="Color" id="628" />
+      <edge source="Colorfulness" target="Primary color" id="629" />
+      <edge source="Colorfulness" target="Primary colour" id="630" />
+      <edge source="Colorfulness" target="Primary colours" id="631" />
+      <edge source="Hue" target="Color" id="632" />
+      <edge source="Hue" target="Color of water" id="633" />
+      <edge source="Hue" target="Orange (colour)" id="634" />
+      <edge source="Hue" target="Primary color" id="635" />
+      <edge source="Hue" target="Primary colour" id="636" />
+      <edge source="Hue" target="Primary colours" id="637" />
+      <edge source="Hue" target="Purple" id="638" />
+      <edge source="Purple" target="Born in the purple" id="639" />
+      <edge source="Purple" target="Brown" id="640" />
+      <edge source="Purple" target="Byzantium (color)" id="641" />
+      <edge source="Purple" target="Carmine (color)" id="642" />
+      <edge source="Purple" target="Crimson" id="643" />
+      <edge source="Purple" target="Dark purple" id="644" />
+      <edge source="Purple" target="Han purple and Han blue" id="645" />
+      <edge source="Purple" target="Hot magenta" id="646" />
+      <edge source="Purple" target="Lavender (color)" id="647" />
+      <edge source="Purple" target="Lavender pink" id="648" />
+      <edge source="Purple" target="Lilac (color)" id="649" />
+      <edge source="Purple" target="Line of purples" id="650" />
+      <edge source="Purple" target="Magenta" id="651" />
+      <edge source="Purple" target="Magenta (Pantone)" id="652" />
+      <edge source="Purple" target="Magenta haze" id="653" />
+      <edge source="Purple" target="Manganese violet" id="654" />
+      <edge source="Purple" target="Orchid (color)" id="655" />
+      <edge source="Purple" target="Periwinkle (color)" id="656" />
+      <edge source="Purple" target="Purple (disambiguation)" id="657" />
+      <edge source="Purple" target="Purple bacteria" id="658" />
+      <edge source="Purple" target="Purple pizzazz" id="659" />
+      <edge source="Purple" target="Purple prose" id="660" />
+      <edge source="Purple" target="Quinacridone magenta" id="661" />
+      <edge source="Purple" target="RGB" id="662" />
+      <edge source="Purple" target="RGB color model" id="663" />
+      <edge source="Purple" target="Razzle dazzle rose" id="664" />
+      <edge source="Purple" target="Red-violet" id="665" />
+      <edge source="Purple" target="Shades of brown" id="666" />
+      <edge source="Purple" target="Shades of lavender" id="667" />
+      <edge source="Purple" target="Shades of magenta" id="668" />
+      <edge source="Purple" target="Shades of pink" id="669" />
+      <edge source="Purple" target="Shades of purple" id="670" />
+      <edge source="Purple" target="Sky magenta" id="671" />
+      <edge source="Purple" target="Steel pink" id="672" />
+      <edge source="Purple" target="Telemagenta" id="673" />
+      <edge source="Purple" target="Tyrian Purple" id="674" />
+      <edge source="Purple" target="Tyrian purple" id="675" />
+      <edge source="Purple" target="Violet (color)" id="676" />
+      <edge source="Sapphire (color)" target="Logan Sapphire" id="677" />
+      <edge source="Sapphire (color)" target="Sapphire" id="678" />
+      <edge source="Sapphire (color)" target="Sapphire (disambiguation)" id="679" />
+      <edge source="Sapphire (color)" target="Sapphire blue" id="680" />
+      <edge source="Sapphire (color)" target="Violet (color)" id="681" />
+      <edge source="Shades of black" target="Primary color" id="682" />
+      <edge source="Shades of black" target="Primary colour" id="683" />
+      <edge source="Shades of black" target="Primary colours" id="684" />
+      <edge source="Shades of red" target="Color" id="685" />
+      <edge source="Shades of red" target="Orange (colour)" id="686" />
+      <edge source="Shades of red" target="Primary color" id="687" />
+      <edge source="Shades of red" target="Primary colour" id="688" />
+      <edge source="Shades of red" target="Primary colours" id="689" />
+      <edge source="Shades of white" target="Color" id="690" />
+      <edge source="Shades of yellow" target="Color" id="691" />
+      <edge source="Shades of yellow" target="Primary color" id="692" />
+      <edge source="Shades of yellow" target="Primary colour" id="693" />
+      <edge source="Shades of yellow" target="Primary colours" id="694" />
+      <edge source="Tint, shade and tone" target="Color" id="695" />
+      <edge source="Tint, shade and tone" target="Primary color" id="696" />
+      <edge source="Tint, shade and tone" target="Primary colour" id="697" />
+      <edge source="Tint, shade and tone" target="Primary colours" id="698" />
+      <edge source="Violet (color)" target="Orange (colour)" id="699" />
+      <edge source="Web colors" target="Primary color" id="700" />
+      <edge source="Web colors" target="Primary colour" id="701" />
+      <edge source="Web colors" target="Primary colours" id="702" />
+      <edge source="Brilliant blue FCF" target="Blue 1" id="703" />
+      <edge source="Duke blue" target="Carolina blue" id="704" />
+      <edge source="Color" target="Animal coloration" id="705" />
+      <edge source="Color" target="Color (disambiguation)" id="706" />
+      <edge source="Color" target="Color analysis" id="707" />
+      <edge source="Color" target="Color code" id="708" />
+      <edge source="Color" target="Color constancy" id="709" />
+      <edge source="Color" target="Color model" id="710" />
+      <edge source="Color" target="Color preferences" id="711" />
+      <edge source="Color" target="Color psychology" id="712" />
+      <edge source="Color" target="Color realism (art style)" id="713" />
+      <edge source="Color" target="Color reproduction" id="714" />
+      <edge source="Color" target="Color science" id="715" />
+      <edge source="Color" target="Color symbolism" id="716" />
+      <edge source="Color" target="Color theory" id="717" />
+      <edge source="Color" target="Color triangle" id="718" />
+      <edge source="Color" target="Color vision" id="719" />
+      <edge source="Color" target="Colorful" id="720" />
+      <edge source="Color" target="Evolution of color vision" id="721" />
+      <edge source="Color" target="Grey" id="722" />
+      <edge source="Color" target="Harmony (color)" id="723" />
+      <edge source="Color" target="Human skin color" id="724" />
+      <edge source="Color" target="Impossible color" id="725" />
+      <edge source="Color" target="List of color spaces and their uses" id="726" />
+      <edge source="Color" target="Neutral color" id="727" />
+      <edge source="Color" target="Orange (colour)" id="728" />
+      <edge source="Color" target="Philosophy of color" id="729" />
+      <edge source="Color" target="Planckian locus" id="730" />
+      <edge source="Color" target="Primary color" id="731" />
+      <edge source="Color" target="Secondary color" id="732" />
+      <edge source="Color" target="Spectral color" id="733" />
+      <edge source="Color" target="Structural coloration" id="734" />
+      <edge source="Color" target="Tertiary color" id="735" />
+      <edge source="Color" target="Unique hues" id="736" />
+      <edge source="Color" target="White" id="737" />
+      <edge source="Color" target="YUV" id="738" />
+      <edge source="Color" target="Yellow" id="739" />
+      <edge source="Color" target="Primary colour" id="740" />
+      <edge source="Color" target="Primary colours" id="741" />
+      <edge source="Color code" target="Primary color" id="742" />
+      <edge source="Color code" target="Primary colour" id="743" />
+      <edge source="Color code" target="Primary colours" id="744" />
+      <edge source="Color constancy" target="Primary color" id="745" />
+      <edge source="Color constancy" target="Primary colour" id="746" />
+      <edge source="Color constancy" target="Primary colours" id="747" />
+      <edge source="Color model" target="Primary color" id="748" />
+      <edge source="Color model" target="Primary colour" id="749" />
+      <edge source="Color model" target="Primary colours" id="750" />
+      <edge source="Color preferences" target="Primary color" id="751" />
+      <edge source="Color preferences" target="Primary colour" id="752" />
+      <edge source="Color preferences" target="Primary colours" id="753" />
+      <edge source="Color realism (art style)" target="Primary color" id="754" />
+      <edge source="Color realism (art style)" target="Primary colour" id="755" />
+      <edge source="Color realism (art style)" target="Primary colours" id="756" />
+      <edge source="Color reproduction" target="Primary color" id="757" />
+      <edge source="Color reproduction" target="Primary colour" id="758" />
+      <edge source="Color reproduction" target="Primary colours" id="759" />
+      <edge source="Color theory" target="Primary color" id="760" />
+      <edge source="Color theory" target="Primary colour" id="761" />
+      <edge source="Color theory" target="Primary colours" id="762" />
+      <edge source="Color triangle" target="Primary color" id="763" />
+      <edge source="Color triangle" target="Primary colour" id="764" />
+      <edge source="Color triangle" target="Primary colours" id="765" />
+      <edge source="Color vision" target="Primary color" id="766" />
+      <edge source="Color vision" target="Primary colour" id="767" />
+      <edge source="Color vision" target="Primary colours" id="768" />
+      <edge source="Evolution of color vision" target="Primary color" id="769" />
+      <edge source="Evolution of color vision" target="Primary colour" id="770" />
+      <edge source="Evolution of color vision" target="Primary colours" id="771" />
+      <edge source="Human skin color" target="Primary color" id="772" />
+      <edge source="Human skin color" target="Primary colour" id="773" />
+      <edge source="Human skin color" target="Primary colours" id="774" />
+      <edge source="Impossible color" target="Primary color" id="775" />
+      <edge source="Impossible color" target="Primary colour" id="776" />
+      <edge source="Impossible color" target="Primary colours" id="777" />
+      <edge source="List of color spaces and their uses" target="Primary color" id="778" />
+      <edge source="List of color spaces and their uses" target="Primary colour" id="779" />
+      <edge source="List of color spaces and their uses" target="Primary colours" id="780" />
+      <edge source="Orange (colour)" target="Amber (color)" id="781" />
+      <edge source="Orange (colour)" target="Citrus Red 2" id="782" />
+      <edge source="Orange (colour)" target="Colour" id="783" />
+      <edge source="Orange (colour)" target="Indian red" id="784" />
+      <edge source="Orange (colour)" target="Lime (color)" id="785" />
+      <edge source="Orange (colour)" target="Orange (fruit)" id="786" />
+      <edge source="Orange (colour)" target="Orange (word)" id="787" />
+      <edge source="Orange (colour)" target="Portland Orange" id="788" />
+      <edge source="Orange (colour)" target="Primary colour" id="789" />
+      <edge source="Orange (colour)" target="Red hair" id="790" />
+      <edge source="Orange (colour)" target="Safety orange" id="791" />
+      <edge source="Orange (colour)" target="Scarlet (color)" id="792" />
+      <edge source="Orange (colour)" target="Shades of brown" id="793" />
+      <edge source="Orange (colour)" target="Tangerine (color)" id="794" />
+      <edge source="Orange (colour)" target="Yellow" id="795" />
+      <edge source="Orange (colour)" target="Primary color" id="796" />
+      <edge source="Orange (colour)" target="Primary colours" id="797" />
+      <edge source="Philosophy of color" target="Primary color" id="798" />
+      <edge source="Philosophy of color" target="Primary colour" id="799" />
+      <edge source="Philosophy of color" target="Primary colours" id="800" />
+      <edge source="Primary color" target="Additive color" id="801" />
+      <edge source="Primary color" target="Additive mixing" id="802" />
+      <edge source="Primary color" target="CIECAM02" id="803" />
+      <edge source="Primary color" target="Color management" id="804" />
+      <edge source="Primary color" target="Color mixing" id="805" />
+      <edge source="Primary color" target="Color photography" id="806" />
+      <edge source="Primary color" target="Color space" id="807" />
+      <edge source="Primary color" target="Colors" id="808" />
+      <edge source="Primary color" target="Complementary colors" id="809" />
+      <edge source="Primary color" target="Gamut" id="810" />
+      <edge source="Primary color" target="Primary Colors (disambiguation)" id="811" />
+      <edge source="Primary color" target="RGB" id="812" />
+      <edge source="Primary color" target="RGB color model" id="813" />
+      <edge source="Primary color" target="RGB color spaces" id="814" />
+      <edge source="Primary color" target="Red, Blue, and Yellow" id="815" />
+      <edge source="Primary color" target="Reddish green" id="816" />
+      <edge source="Primary color" target="Secondary color" id="817" />
+      <edge source="Primary color" target="Shades of brown" id="818" />
+      <edge source="Primary color" target="Spectral color" id="819" />
+      <edge source="Primary color" target="Subtractive color" id="820" />
+      <edge source="Primary color" target="Subtractive mixing" id="821" />
+      <edge source="Primary color" target="Unique hues" id="822" />
+      <edge source="Primary color" target="Yellow" id="823" />
+      <edge source="Secondary color" target="Primary colour" id="824" />
+      <edge source="Secondary color" target="Primary colours" id="825" />
+      <edge source="Spectral color" target="Primary colour" id="826" />
+      <edge source="Spectral color" target="Primary colours" id="827" />
+      <edge source="Unique hues" target="Primary colour" id="828" />
+      <edge source="Unique hues" target="Primary colours" id="829" />
+      <edge source="Yellow" target="Primary colour" id="830" />
+      <edge source="Yellow" target="Primary colours" id="831" />
+      <edge source="Color of water" target="Ocean color" id="832" />
+      <edge source="Color of water" target="Subtractive color" id="833" />
+      <edge source="Subtractive color" target="Primary colour" id="834" />
+      <edge source="Subtractive color" target="Primary colours" id="835" />
+      <edge source="Shades of brown" target="Primary colour" id="836" />
+      <edge source="Shades of brown" target="Primary colours" id="837" />
+      <edge source="Midnight blue" target="Midnight Blue (Lou Gramm song)" id="838" />
+      <edge source="Midnight blue" target="Midnight blue (disambiguation)" id="839" />
+      <edge source="Midnight blue" target="Night (color)" id="840" />
+      <edge source="Primary colour" target="Additive color" id="841" />
+      <edge source="Primary colour" target="Additive mixing" id="842" />
+      <edge source="Primary colour" target="CIECAM02" id="843" />
+      <edge source="Primary colour" target="Color management" id="844" />
+      <edge source="Primary colour" target="Color mixing" id="845" />
+      <edge source="Primary colour" target="Color photography" id="846" />
+      <edge source="Primary colour" target="Color space" id="847" />
+      <edge source="Primary colour" target="Colors" id="848" />
+      <edge source="Primary colour" target="Complementary colors" id="849" />
+      <edge source="Primary colour" target="Gamut" id="850" />
+      <edge source="Primary colour" target="Primary Colors (disambiguation)" id="851" />
+      <edge source="Primary colour" target="RGB" id="852" />
+      <edge source="Primary colour" target="RGB color model" id="853" />
+      <edge source="Primary colour" target="RGB color spaces" id="854" />
+      <edge source="Primary colour" target="Red, Blue, and Yellow" id="855" />
+      <edge source="Primary colour" target="Reddish green" id="856" />
+      <edge source="Primary colour" target="Subtractive mixing" id="857" />
+      <edge source="Additive color" target="Primary colours" id="858" />
+      <edge source="Additive mixing" target="Primary colours" id="859" />
+      <edge source="CIECAM02" target="Primary colours" id="860" />
+      <edge source="Color management" target="Primary colours" id="861" />
+      <edge source="Color mixing" target="Primary colours" id="862" />
+      <edge source="Color photography" target="Primary colours" id="863" />
+      <edge source="Color space" target="Primary colours" id="864" />
+      <edge source="Colors" target="Primary colours" id="865" />
+      <edge source="Complementary colors" target="Primary colours" id="866" />
+      <edge source="Gamut" target="Primary colours" id="867" />
+      <edge source="Primary Colors (disambiguation)" target="Primary colours" id="868" />
+      <edge source="RGB" target="Primary colours" id="869" />
+      <edge source="RGB color model" target="Primary colours" id="870" />
+      <edge source="RGB color spaces" target="Primary colours" id="871" />
+      <edge source="Red, Blue, and Yellow" target="Primary colours" id="872" />
+      <edge source="Reddish green" target="Primary colours" id="873" />
+      <edge source="Subtractive mixing" target="Primary colours" id="874" />
+      <edge source="Sky blue" target="Bleu celeste" id="875" />
+      <edge source="Sky blue" target="Sky (color)" id="876" />
+      <edge source="Sky blue" target="Sky Blue (disambiguation)" id="877" />
+    </edges>
+  </graph>
+</gexf>

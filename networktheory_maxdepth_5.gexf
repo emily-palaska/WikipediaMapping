@@ -1,0 +1,1051 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-02-27">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Network theory" label="Network theory" />
+      <node id="Biological network" label="Biological network" />
+      <node id="Biological network inference" label="Biological network inference" />
+      <node id="Ecological network" label="Ecological network" />
+      <node id="Biological interaction" label="Biological interaction" />
+      <node id="Biological relationship" label="Biological relationship" />
+      <node id="Co-operation (evolution)" label="Co-operation (evolution)" />
+      <node id="Competition (biology)" label="Competition (biology)" />
+      <node id="Consumer–resource interactions" label="Consumer–resource interactions" />
+      <node id="Ecological facilitation" label="Ecological facilitation" />
+      <node id="Interference competition" label="Interference competition" />
+      <node id="Interspecific competition" label="Interspecific competition" />
+      <node id="Intertidal ecology" label="Intertidal ecology" />
+      <node id="Mutualism (biology)" label="Mutualism (biology)" />
+      <node id="Mutualism Parasitism Continuum" label="Mutualism Parasitism Continuum" />
+      <node id="Non-trophic networks" label="Non-trophic networks" />
+      <node id="Complex network" label="Complex network" />
+      <node id="Flow network" label="Flow network" />
+      <node id="Network motif" label="Network motif" />
+      <node id="Network science" label="Network science" />
+      <node id="Random geometric graph" label="Random geometric graph" />
+      <node id="Spatial network" label="Spatial network" />
+      <node id="Transport network" label="Transport network" />
+      <node id="Weighted network" label="Weighted network" />
+      <node id="Biotic component" label="Biotic component" />
+      <node id="Biocapacity" label="Biocapacity" />
+      <node id="Biophysical environment" label="Biophysical environment" />
+      <node id="Biosystem" label="Biosystem" />
+      <node id="Cascade effect (ecology)" label="Cascade effect (ecology)" />
+      <node id="Community (ecology)" label="Community (ecology)" />
+      <node id="Disturbance (ecology)" label="Disturbance (ecology)" />
+      <node id="Dominance (ecology)" label="Dominance (ecology)" />
+      <node id="Ecological collapse" label="Ecological collapse" />
+      <node id="Ecological extinction" label="Ecological extinction" />
+      <node id="Ecological footprint" label="Ecological footprint" />
+      <node id="Ecological indicator" label="Ecological indicator" />
+      <node id="Ecological resilience" label="Ecological resilience" />
+      <node id="Ecological stability" label="Ecological stability" />
+      <node id="Ecology" label="Ecology" />
+      <node id="Ecosystem-based management" label="Ecosystem-based management" />
+      <node id="Ecosystem (disambiguation)" label="Ecosystem (disambiguation)" />
+      <node id="Ecosystem approach" label="Ecosystem approach" />
+      <node id="Ecosystem collapse" label="Ecosystem collapse" />
+      <node id="Ecosystem ecology" label="Ecosystem ecology" />
+      <node id="Ecosystem engineer" label="Ecosystem engineer" />
+      <node id="Ecosystem management" label="Ecosystem management" />
+      <node id="Ecosystem model" label="Ecosystem model" />
+      <node id="Ecosystem respiration" label="Ecosystem respiration" />
+      <node id="Ecosystem services" label="Ecosystem services" />
+      <node id="Ecosystems" label="Ecosystems" />
+      <node id="Environmental factor" label="Environmental factor" />
+      <node id="Functional ecology" label="Functional ecology" />
+      <node id="Groundwater-dependent ecosystems" label="Groundwater-dependent ecosystems" />
+      <node id="Habitat" label="Habitat" />
+      <node id="Habitat (ecology)" label="Habitat (ecology)" />
+      <node id="Microbial ecology" label="Microbial ecology" />
+      <node id="Natural environment" label="Natural environment" />
+      <node id="Novel ecosystem" label="Novel ecosystem" />
+      <node id="Outline of ecology" label="Outline of ecology" />
+      <node id="Perturbation (biology)" label="Perturbation (biology)" />
+      <node id="Population ecology" label="Population ecology" />
+      <node id="Reference ecosystem" label="Reference ecosystem" />
+      <node id="Resilience (ecology)" label="Resilience (ecology)" />
+      <node id="Spatial ecology" label="Spatial ecology" />
+      <node id="Systems ecology" label="Systems ecology" />
+      <node id="Terrestrial ecosystem" label="Terrestrial ecosystem" />
+      <node id="Terrestrial ecosystems" label="Terrestrial ecosystems" />
+      <node id="Theoretical ecology" label="Theoretical ecology" />
+      <node id="Urban ecosystem" label="Urban ecosystem" />
+      <node id="Association (ecology)" label="Association (ecology)" />
+      <node id="Biocoenosis" label="Biocoenosis" />
+      <node id="Ecological community" label="Ecological community" />
+      <node id="Ecological niche" label="Ecological niche" />
+      <node id="Ecosystem" label="Ecosystem" />
+      <node id="Ecosystem diversity" label="Ecosystem diversity" />
+      <node id="Holistic community" label="Holistic community" />
+      <node id="Landscape ecology" label="Landscape ecology" />
+      <node id="Metacommunity" label="Metacommunity" />
+      <node id="Niche differentiation" label="Niche differentiation" />
+      <node id="Phytocoenosis" label="Phytocoenosis" />
+      <node id="Plant community" label="Plant community" />
+      <node id="Consumer-resource systems" label="Consumer-resource systems" />
+      <node id="Consumer (food chain)" label="Consumer (food chain)" />
+      <node id="Food chain" label="Food chain" />
+      <node id="Food chains" label="Food chains" />
+      <node id="Food web" label="Food web" />
+      <node id="Soil food web" label="Soil food web" />
+      <node id="Balance of nature" label="Balance of nature" />
+      <node id="Restoration ecology" label="Restoration ecology" />
+      <node id="Behavioral ecology" label="Behavioral ecology" />
+      <node id="Biodiversity loss" label="Biodiversity loss" />
+      <node id="Ecological effects of biodiversity" label="Ecological effects of biodiversity" />
+      <node id="Extinction" label="Extinction" />
+      <node id="Extinction event" label="Extinction event" />
+      <node id="Extinction threshold" label="Extinction threshold" />
+      <node id="Extinction vortex" label="Extinction vortex" />
+      <node id="Functional extinction" label="Functional extinction" />
+      <node id="Habitat destruction" label="Habitat destruction" />
+      <node id="Holocene extinction" label="Holocene extinction" />
+      <node id="Human extinction" label="Human extinction" />
+      <node id="Local extinction" label="Local extinction" />
+      <node id="Loss of habitat" label="Loss of habitat" />
+      <node id="Mass extinction" label="Mass extinction" />
+      <node id="Paradox of enrichment" label="Paradox of enrichment" />
+      <node id="Bioindicator" label="Bioindicator" />
+      <node id="Ecological science" label="Ecological science" />
+      <node id="Ecosystem valuation" label="Ecosystem valuation" />
+      <node id="Environmental indicator" label="Environmental indicator" />
+      <node id="Indicator plants" label="Indicator plants" />
+      <node id="Indicator species" label="Indicator species" />
+      <node id="Alternative stable state" label="Alternative stable state" />
+      <node id="Resistance (ecology)" label="Resistance (ecology)" />
+      <node id="Behavioural ecology" label="Behavioural ecology" />
+      <node id="Chemical ecology" label="Chemical ecology" />
+      <node id="Community ecology" label="Community ecology" />
+      <node id="Cultural ecology" label="Cultural ecology" />
+      <node id="Deep ecology" label="Deep ecology" />
+      <node id="Ecological genetics" label="Ecological genetics" />
+      <node id="Ecological psychology" label="Ecological psychology" />
+      <node id="Ecology (disambiguation)" label="Ecology (disambiguation)" />
+      <node id="Ecophysiology" label="Ecophysiology" />
+      <node id="Ecosystem health" label="Ecosystem health" />
+      <node id="Evolutionary ecology" label="Evolutionary ecology" />
+      <node id="Glossary of ecology" label="Glossary of ecology" />
+      <node id="Habitats" label="Habitats" />
+      <node id="History of ecology" label="History of ecology" />
+      <node id="Human ecology" label="Human ecology" />
+      <node id="Industrial ecology" label="Industrial ecology" />
+      <node id="Information ecology" label="Information ecology" />
+      <node id="Insular biogeography" label="Insular biogeography" />
+      <node id="Island biogeography" label="Island biogeography" />
+      <node id="Molecular Ecology" label="Molecular Ecology" />
+      <node id="Molecular ecology" label="Molecular ecology" />
+      <node id="Philosophy of ecology" label="Philosophy of ecology" />
+      <node id="Political ecology" label="Political ecology" />
+      <node id="Sensory ecology" label="Sensory ecology" />
+      <node id="Social ecology (academic field)" label="Social ecology (academic field)" />
+      <node id="Soil ecology" label="Soil ecology" />
+      <node id="Spiritual ecology" label="Spiritual ecology" />
+      <node id="Technoecosystems" label="Technoecosystems" />
+      <node id="Urban ecology" label="Urban ecology" />
+      <node id="Ecology (journal)" label="Ecology (journal)" />
+      <node id="Journal of Ecology" label="Journal of Ecology" />
+      <node id="Aquatic ecosystem" label="Aquatic ecosystem" />
+      <node id="Ecological economics" label="Ecological economics" />
+      <node id="Landscape limnology" label="Landscape limnology" />
+      <node id="Terrestrial ecoregion" label="Terrestrial ecoregion" />
+      <node id="Ecological Modelling" label="Ecological Modelling" />
+      <node id="Ecological forecasting" label="Ecological forecasting" />
+      <node id="Ecological modelling" label="Ecological modelling" />
+      <node id="Ecological system" label="Ecological system" />
+      <node id="Population model" label="Population model" />
+      <node id="Scientific modelling" label="Scientific modelling" />
+      <node id="Ecosystem stability" label="Ecosystem stability" />
+      <node id="Applications of evolution" label="Applications of evolution" />
+      <node id="Current research in evolutionary biology" label="Current research in evolutionary biology" />
+      <node id="Ecological anthropology" label="Ecological anthropology" />
+      <node id="Evolution" label="Evolution" />
+      <node id="Evolutionary Ecology (journal)" label="Evolutionary Ecology (journal)" />
+      <node id="Evolutionary anthropology" label="Evolutionary anthropology" />
+      <node id="Evolutionary biology" label="Evolutionary biology" />
+      <node id="Evolutionary economics" label="Evolutionary economics" />
+      <node id="Evolutionary epistemology" label="Evolutionary epistemology" />
+      <node id="Evolutionary ethics" label="Evolutionary ethics" />
+      <node id="Evolutionary neuroscience" label="Evolutionary neuroscience" />
+      <node id="Evolutionary physiology" label="Evolutionary physiology" />
+      <node id="Evolutionary psychology" label="Evolutionary psychology" />
+      <node id="Experimental evolution" label="Experimental evolution" />
+      <node id="Glossary of evolutionary biology" label="Glossary of evolutionary biology" />
+      <node id="List of examples of convergent evolution" label="List of examples of convergent evolution" />
+      <node id="Outline of evolution" label="Outline of evolution" />
+      <node id="Phylogenetics" label="Phylogenetics" />
+      <node id="Quantitative ecology" label="Quantitative ecology" />
+      <node id="Social effects of evolutionary theory" label="Social effects of evolutionary theory" />
+      <node id="Category:Evolutionary biology" label="Category:Evolutionary biology" />
+      <node id="Functional Ecology (journal)" label="Functional Ecology (journal)" />
+      <node id="Biological interactions" label="Biological interactions" />
+      <node id="Tritrophic interactions in plant defense" label="Tritrophic interactions in plant defense" />
+      <node id="Animal ecology" label="Animal ecology" />
+      <node id="Applied ecology" label="Applied ecology" />
+      <node id="Ecological health" label="Ecological health" />
+      <node id="Environment (biophysical)" label="Environment (biophysical)" />
+      <node id="Abundance (ecology)" label="Abundance (ecology)" />
+      <node id="Disease ecology" label="Disease ecology" />
+      <node id="Lists of organisms by population" label="Lists of organisms by population" />
+      <node id="Population cycle" label="Population cycle" />
+      <node id="Population dynamics" label="Population dynamics" />
+      <node id="Population dynamics of fisheries" label="Population dynamics of fisheries" />
+      <node id="Population genetics" label="Population genetics" />
+      <node id="Synecology" label="Synecology" />
+      <node id="Food webs" label="Food webs" />
+      <node id="Soil biology" label="Soil biology" />
+      <node id="Soil life" label="Soil life" />
+      <node id="Intermediate disturbance hypothesis" label="Intermediate disturbance hypothesis" />
+      <node id="Microhabitat" label="Microhabitat" />
+      <node id="Spatial heterogeneity" label="Spatial heterogeneity" />
+      <node id="Species distribution" label="Species distribution" />
+      <node id="Species–area relationship" label="Species–area relationship" />
+      <node id="General systems theory" label="General systems theory" />
+      <node id="List of systems sciences organizations" label="List of systems sciences organizations" />
+      <node id="System" label="System" />
+      <node id="Systems analysis" label="Systems analysis" />
+      <node id="Systems biology" label="Systems biology" />
+      <node id="Systems philosophy" label="Systems philosophy" />
+      <node id="Systems psychology" label="Systems psychology" />
+      <node id="Systems science" label="Systems science" />
+      <node id="Systems theory" label="Systems theory" />
+      <node id="Systems theory in anthropology" label="Systems theory in anthropology" />
+      <node id="Systems theory in archaeology" label="Systems theory in archaeology" />
+      <node id="Systems thinking" label="Systems thinking" />
+      <node id="Ecological systems theory" label="Ecological systems theory" />
+      <node id="Ecology: Individuals, Populations and Communities" label="Ecology: Individuals, Populations and Communities" />
+      <node id="Ecosystem models" label="Ecosystem models" />
+      <node id="Experimental ecology" label="Experimental ecology" />
+      <node id="Modelling biological systems" label="Modelling biological systems" />
+      <node id="BioModels" label="BioModels" />
+      <node id="Bioinformatics" label="Bioinformatics" />
+      <node id="Alignment-free sequence analysis" label="Alignment-free sequence analysis" />
+      <node id="Bio-inspired computing" label="Bio-inspired computing" />
+      <node id="BioJS" label="BioJS" />
+      <node id="BioNumbers" label="BioNumbers" />
+      <node id="Biochip" label="Biochip" />
+      <node id="Bioimage informatics" label="Bioimage informatics" />
+      <node id="Bioinformatics (journal)" label="Bioinformatics (journal)" />
+      <node id="Bioinformatics companies" label="Bioinformatics companies" />
+      <node id="Bioinformatics workflow management systems" label="Bioinformatics workflow management systems" />
+      <node id="Biological Data Visualization" label="Biological Data Visualization" />
+      <node id="Biological computation" label="Biological computation" />
+      <node id="Biological data" label="Biological data" />
+      <node id="Biological database" label="Biological database" />
+      <node id="Biophysics" label="Biophysics" />
+      <node id="Biopython" label="Biopython" />
+      <node id="Biostatistics" label="Biostatistics" />
+      <node id="Computational biology" label="Computational biology" />
+      <node id="Computational biomodeling" label="Computational biomodeling" />
+      <node id="Computational genomics" label="Computational genomics" />
+      <node id="Computational systems biology" label="Computational systems biology" />
+      <node id="Flow cytometry bioinformatics" label="Flow cytometry bioinformatics" />
+      <node id="Gene Disease Database" label="Gene Disease Database" />
+      <node id="Genome informatics" label="Genome informatics" />
+      <node id="Health informatics" label="Health informatics" />
+      <node id="List of biobanks" label="List of biobanks" />
+      <node id="List of bioinformatics companies" label="List of bioinformatics companies" />
+      <node id="List of bioinformatics journals" label="List of bioinformatics journals" />
+      <node id="Mathematical and theoretical biology" label="Mathematical and theoretical biology" />
+      <node id="Neuroinformatics" label="Neuroinformatics" />
+      <node id="Sequence analysis" label="Sequence analysis" />
+      <node id="Sequence profiling tool" label="Sequence profiling tool" />
+      <node id="Structural bioinformatics" label="Structural bioinformatics" />
+      <node id="Transcriptomics" label="Transcriptomics" />
+      <node id="Category:Bioinformatics" label="Category:Bioinformatics" />
+      <node id="Biological data visualization" label="Biological data visualization" />
+      <node id="List of molecular graphics systems" label="List of molecular graphics systems" />
+      <node id="Scientific visualization" label="Scientific visualization" />
+      <node id="Biological organisation" label="Biological organisation" />
+      <node id="Biological system" label="Biological system" />
+      <node id="Biological systems" label="Biological systems" />
+      <node id="Hierarchy of life" label="Hierarchy of life" />
+      <node id="Hierarchy theory" label="Hierarchy theory" />
+      <node id="Integrative level" label="Integrative level" />
+      <node id="Levels of organization" label="Levels of organization" />
+      <node id="Organism" label="Organism" />
+      <node id="Biosimulation" label="Biosimulation" />
+      <node id="Cellular model" label="Cellular model" />
+      <node id="Mathematical biology" label="Mathematical biology" />
+      <node id="Biochemistry" label="Biochemistry" />
+      <node id="Biological theory" label="Biological theory" />
+      <node id="Biology" label="Biology" />
+      <node id="Biomechanics" label="Biomechanics" />
+      <node id="Computational neuroscience" label="Computational neuroscience" />
+      <node id="Experimental biology" label="Experimental biology" />
+      <node id="Human biology" label="Human biology" />
+      <node id="Index of biology articles" label="Index of biology articles" />
+      <node id="Molecular biology" label="Molecular biology" />
+      <node id="Quantum biology" label="Quantum biology" />
+      <node id="Climate model" label="Climate model" />
+      <node id="Computational model" label="Computational model" />
+      <node id="Computational models" label="Computational models" />
+      <node id="Empirical modelling" label="Empirical modelling" />
+      <node id="Energy modeling" label="Energy modeling" />
+      <node id="Enterprise modelling" label="Enterprise modelling" />
+      <node id="Mathematical model" label="Mathematical model" />
+      <node id="Mathematical modeling" label="Mathematical modeling" />
+      <node id="Model" label="Model" />
+      <node id="Modeling and simulation" label="Modeling and simulation" />
+      <node id="Modeling biological systems" label="Modeling biological systems" />
+      <node id="Modeling language" label="Modeling language" />
+      <node id="Modelling and simulation" label="Modelling and simulation" />
+      <node id="Scale model" label="Scale model" />
+      <node id="Simulation" label="Simulation" />
+      <node id="Statistical model" label="Statistical model" />
+      <node id="Systems modeling" label="Systems modeling" />
+      <node id="BioSystems" label="BioSystems" />
+      <node id="Biochemical Systems Theory" label="Biochemical Systems Theory" />
+      <node id="Cancer systems biology" label="Cancer systems biology" />
+      <node id="Cell theory" label="Cell theory" />
+      <node id="List of systems biology modeling software" label="List of systems biology modeling software" />
+      <node id="Living systems" label="Living systems" />
+      <node id="Systems biomedicine" label="Systems biomedicine" />
+      <node id="Systems immunology" label="Systems immunology" />
+      <node id="Systems medicine" label="Systems medicine" />
+      <node id="Systems neuroscience" label="Systems neuroscience" />
+      <node id="Systems pharmacology" label="Systems pharmacology" />
+      <node id="Category:Systems science" label="Category:Systems science" />
+      <node id="Complex system" label="Complex system" />
+      <node id="Complex systems" label="Complex systems" />
+      <node id="Environment (systems)" label="Environment (systems)" />
+      <node id="Glossary of systems theory" label="Glossary of systems theory" />
+      <node id="List of systems science organizations" label="List of systems science organizations" />
+      <node id="List of types of systems theory" label="List of types of systems theory" />
+      <node id="Living systems theory" label="Living systems theory" />
+      <node id="Social system" label="Social system" />
+      <node id="System identification" label="System identification" />
+      <node id="Systems" label="Systems" />
+      <node id="Systems chemistry" label="Systems chemistry" />
+      <node id="Systems engineering" label="Systems engineering" />
+      <node id="Systems theory in political science" label="Systems theory in political science" />
+      <node id="Viable system theory" label="Viable system theory" />
+      <node id="Viable systems approach" label="Viable systems approach" />
+      <node id="World-systems theory" label="World-systems theory" />
+      <node id="Network medicine" label="Network medicine" />
+      <node id="Human disease network" label="Human disease network" />
+      <node id="Climate as complex networks" label="Climate as complex networks" />
+      <node id="Complex networks" label="Complex networks" />
+      <node id="Multidimensional network" label="Multidimensional network" />
+      <node id="Network (disambiguation)" label="Network (disambiguation)" />
+      <node id="Network theory in risk assessment" label="Network theory in risk assessment" />
+      <node id="Network topology" label="Network topology" />
+      <node id="Scientific collaboration network" label="Scientific collaboration network" />
+      <node id="Sexual network" label="Sexual network" />
+      <node id="List of network theory topics" label="List of network theory topics" />
+      <node id="Network dynamics" label="Network dynamics" />
+      <node id="Category:Graph theory" label="Category:Graph theory" />
+      <node id="Neural network" label="Neural network" />
+      <node id="Artificial neural network" label="Artificial neural network" />
+      <node id="Artificial neuron" label="Artificial neuron" />
+      <node id="Artificial neurons" label="Artificial neurons" />
+      <node id="Biological neural network" label="Biological neural network" />
+      <node id="Echo state network" label="Echo state network" />
+      <node id="Feedforward neural network" label="Feedforward neural network" />
+      <node id="Hidden layer" label="Hidden layer" />
+      <node id="History of artificial neural networks" label="History of artificial neural networks" />
+      <node id="Large width limits of neural networks" label="Large width limits of neural networks" />
+      <node id="Mathematics of artificial neural networks" label="Mathematics of artificial neural networks" />
+      <node id="Multilayer perceptrons" label="Multilayer perceptrons" />
+      <node id="Neural computing" label="Neural computing" />
+      <node id="Neural network (disambiguation)" label="Neural network (disambiguation)" />
+      <node id="Recurrent neural network" label="Recurrent neural network" />
+      <node id="Spiking neural network" label="Spiking neural network" />
+      <node id="Types of artificial neural networks" label="Types of artificial neural networks" />
+      <node id="Category:Artificial neural networks" label="Category:Artificial neural networks" />
+      <node id="Neural circuit" label="Neural circuit" />
+      <node id="Neural circuits" label="Neural circuits" />
+      <node id="Neural network (biology)" label="Neural network (biology)" />
+      <node id="Neural Networks (journal)" label="Neural Networks (journal)" />
+      <node id="Neural network (machine learning)" label="Neural network (machine learning)" />
+    </nodes>
+    <edges>
+      <edge source="Network theory" target="Biological network" id="0" />
+      <edge source="Network theory" target="Network science" id="1" />
+      <edge source="Network theory" target="Network medicine" id="2" />
+      <edge source="Network theory" target="Complex network" id="3" />
+      <edge source="Network theory" target="List of network theory topics" id="4" />
+      <edge source="Network theory" target="Network dynamics" id="5" />
+      <edge source="Network theory" target="Network theory in risk assessment" id="6" />
+      <edge source="Network theory" target="Network topology" id="7" />
+      <edge source="Network theory" target="Spatial network" id="8" />
+      <edge source="Network theory" target="Transport network" id="9" />
+      <edge source="Network theory" target="Category:Graph theory" id="10" />
+      <edge source="Biological network" target="Biological network inference" id="11" />
+      <edge source="Biological network" target="Ecological network" id="12" />
+      <edge source="Biological network" target="Complex network" id="13" />
+      <edge source="Biological network" target="Flow network" id="14" />
+      <edge source="Biological network" target="Network motif" id="15" />
+      <edge source="Biological network" target="Network science" id="16" />
+      <edge source="Biological network" target="Random geometric graph" id="17" />
+      <edge source="Biological network" target="Spatial network" id="18" />
+      <edge source="Biological network" target="Transport network" id="19" />
+      <edge source="Biological network" target="Weighted network" id="20" />
+      <edge source="Biological network inference" target="Ecological network" id="21" />
+      <edge source="Biological network inference" target="Modelling biological systems" id="22" />
+      <edge source="Biological network inference" target="Network medicine" id="23" />
+      <edge source="Biological network inference" target="Neural network" id="24" />
+      <edge source="Ecological network" target="Biological interaction" id="25" />
+      <edge source="Ecological network" target="Biotic component" id="26" />
+      <edge source="Ecological network" target="Community (ecology)" id="27" />
+      <edge source="Ecological network" target="Consumer-resource systems" id="28" />
+      <edge source="Ecological network" target="Consumer–resource interactions" id="29" />
+      <edge source="Ecological network" target="Ecological collapse" id="30" />
+      <edge source="Ecological network" target="Ecological extinction" id="31" />
+      <edge source="Ecological network" target="Ecological indicator" id="32" />
+      <edge source="Ecological network" target="Ecological stability" id="33" />
+      <edge source="Ecological network" target="Ecology" id="34" />
+      <edge source="Ecological network" target="Ecology (journal)" id="35" />
+      <edge source="Ecological network" target="Ecosystem" id="36" />
+      <edge source="Ecological network" target="Ecosystem ecology" id="37" />
+      <edge source="Ecological network" target="Ecosystem model" id="38" />
+      <edge source="Ecological network" target="Ecosystem stability" id="39" />
+      <edge source="Ecological network" target="Evolutionary ecology" id="40" />
+      <edge source="Ecological network" target="Functional ecology" id="41" />
+      <edge source="Ecological network" target="Non-trophic networks" id="42" />
+      <edge source="Ecological network" target="Outline of ecology" id="43" />
+      <edge source="Ecological network" target="Population ecology" id="44" />
+      <edge source="Ecological network" target="Soil food web" id="45" />
+      <edge source="Ecological network" target="Spatial ecology" id="46" />
+      <edge source="Ecological network" target="Systems ecology" id="47" />
+      <edge source="Ecological network" target="Theoretical ecology" id="48" />
+      <edge source="Biological interaction" target="Biological relationship" id="49" />
+      <edge source="Biological interaction" target="Co-operation (evolution)" id="50" />
+      <edge source="Biological interaction" target="Competition (biology)" id="51" />
+      <edge source="Biological interaction" target="Consumer–resource interactions" id="52" />
+      <edge source="Biological interaction" target="Ecological facilitation" id="53" />
+      <edge source="Biological interaction" target="Interference competition" id="54" />
+      <edge source="Biological interaction" target="Interspecific competition" id="55" />
+      <edge source="Biological interaction" target="Intertidal ecology" id="56" />
+      <edge source="Biological interaction" target="Mutualism (biology)" id="57" />
+      <edge source="Biological interaction" target="Mutualism Parasitism Continuum" id="58" />
+      <edge source="Biological interaction" target="Non-trophic networks" id="59" />
+      <edge source="Biological interaction" target="Consumer-resource systems" id="60" />
+      <edge source="Competition (biology)" target="Non-trophic networks" id="61" />
+      <edge source="Consumer–resource interactions" target="Consumer (food chain)" id="62" />
+      <edge source="Consumer–resource interactions" target="Food chain" id="63" />
+      <edge source="Consumer–resource interactions" target="Food chains" id="64" />
+      <edge source="Consumer–resource interactions" target="Food web" id="65" />
+      <edge source="Consumer–resource interactions" target="Non-trophic networks" id="66" />
+      <edge source="Consumer–resource interactions" target="Soil food web" id="67" />
+      <edge source="Ecological facilitation" target="Non-trophic networks" id="68" />
+      <edge source="Interspecific competition" target="Non-trophic networks" id="69" />
+      <edge source="Mutualism (biology)" target="Non-trophic networks" id="70" />
+      <edge source="Non-trophic networks" target="Consumer-resource systems" id="71" />
+      <edge source="Non-trophic networks" target="Biological interactions" id="72" />
+      <edge source="Non-trophic networks" target="Tritrophic interactions in plant defense" id="73" />
+      <edge source="Complex network" target="Network science" id="74" />
+      <edge source="Network science" target="Network medicine" id="75" />
+      <edge source="Network science" target="Climate as complex networks" id="76" />
+      <edge source="Network science" target="Complex networks" id="77" />
+      <edge source="Network science" target="Multidimensional network" id="78" />
+      <edge source="Network science" target="Network (disambiguation)" id="79" />
+      <edge source="Network science" target="Network theory in risk assessment" id="80" />
+      <edge source="Network science" target="Network topology" id="81" />
+      <edge source="Network science" target="Scientific collaboration network" id="82" />
+      <edge source="Network science" target="Sexual network" id="83" />
+      <edge source="Biotic component" target="Biocapacity" id="84" />
+      <edge source="Biotic component" target="Biophysical environment" id="85" />
+      <edge source="Biotic component" target="Biosystem" id="86" />
+      <edge source="Biotic component" target="Cascade effect (ecology)" id="87" />
+      <edge source="Biotic component" target="Community (ecology)" id="88" />
+      <edge source="Biotic component" target="Disturbance (ecology)" id="89" />
+      <edge source="Biotic component" target="Dominance (ecology)" id="90" />
+      <edge source="Biotic component" target="Ecological collapse" id="91" />
+      <edge source="Biotic component" target="Ecological extinction" id="92" />
+      <edge source="Biotic component" target="Ecological footprint" id="93" />
+      <edge source="Biotic component" target="Ecological indicator" id="94" />
+      <edge source="Biotic component" target="Ecological resilience" id="95" />
+      <edge source="Biotic component" target="Ecological stability" id="96" />
+      <edge source="Biotic component" target="Ecology" id="97" />
+      <edge source="Biotic component" target="Ecosystem-based management" id="98" />
+      <edge source="Biotic component" target="Ecosystem (disambiguation)" id="99" />
+      <edge source="Biotic component" target="Ecosystem approach" id="100" />
+      <edge source="Biotic component" target="Ecosystem collapse" id="101" />
+      <edge source="Biotic component" target="Ecosystem ecology" id="102" />
+      <edge source="Biotic component" target="Ecosystem engineer" id="103" />
+      <edge source="Biotic component" target="Ecosystem management" id="104" />
+      <edge source="Biotic component" target="Ecosystem model" id="105" />
+      <edge source="Biotic component" target="Ecosystem respiration" id="106" />
+      <edge source="Biotic component" target="Ecosystem services" id="107" />
+      <edge source="Biotic component" target="Ecosystems" id="108" />
+      <edge source="Biotic component" target="Environmental factor" id="109" />
+      <edge source="Biotic component" target="Functional ecology" id="110" />
+      <edge source="Biotic component" target="Groundwater-dependent ecosystems" id="111" />
+      <edge source="Biotic component" target="Habitat" id="112" />
+      <edge source="Biotic component" target="Habitat (ecology)" id="113" />
+      <edge source="Biotic component" target="Microbial ecology" id="114" />
+      <edge source="Biotic component" target="Natural environment" id="115" />
+      <edge source="Biotic component" target="Novel ecosystem" id="116" />
+      <edge source="Biotic component" target="Outline of ecology" id="117" />
+      <edge source="Biotic component" target="Perturbation (biology)" id="118" />
+      <edge source="Biotic component" target="Population ecology" id="119" />
+      <edge source="Biotic component" target="Reference ecosystem" id="120" />
+      <edge source="Biotic component" target="Resilience (ecology)" id="121" />
+      <edge source="Biotic component" target="Spatial ecology" id="122" />
+      <edge source="Biotic component" target="Systems ecology" id="123" />
+      <edge source="Biotic component" target="Terrestrial ecosystem" id="124" />
+      <edge source="Biotic component" target="Terrestrial ecosystems" id="125" />
+      <edge source="Biotic component" target="Theoretical ecology" id="126" />
+      <edge source="Biotic component" target="Urban ecosystem" id="127" />
+      <edge source="Biotic component" target="Ecosystem" id="128" />
+      <edge source="Biotic component" target="Ecosystem stability" id="129" />
+      <edge source="Biocapacity" target="Ecosystem" id="130" />
+      <edge source="Biophysical environment" target="Ecosystem" id="131" />
+      <edge source="Biosystem" target="Ecosystem" id="132" />
+      <edge source="Cascade effect (ecology)" target="Ecological collapse" id="133" />
+      <edge source="Cascade effect (ecology)" target="Ecological extinction" id="134" />
+      <edge source="Cascade effect (ecology)" target="Ecosystem" id="135" />
+      <edge source="Community (ecology)" target="Association (ecology)" id="136" />
+      <edge source="Community (ecology)" target="Biocoenosis" id="137" />
+      <edge source="Community (ecology)" target="Ecological collapse" id="138" />
+      <edge source="Community (ecology)" target="Ecological community" id="139" />
+      <edge source="Community (ecology)" target="Ecological niche" id="140" />
+      <edge source="Community (ecology)" target="Ecological stability" id="141" />
+      <edge source="Community (ecology)" target="Ecology" id="142" />
+      <edge source="Community (ecology)" target="Ecosystem" id="143" />
+      <edge source="Community (ecology)" target="Ecosystem diversity" id="144" />
+      <edge source="Community (ecology)" target="Ecosystem ecology" id="145" />
+      <edge source="Community (ecology)" target="Holistic community" id="146" />
+      <edge source="Community (ecology)" target="Landscape ecology" id="147" />
+      <edge source="Community (ecology)" target="Metacommunity" id="148" />
+      <edge source="Community (ecology)" target="Niche differentiation" id="149" />
+      <edge source="Community (ecology)" target="Phytocoenosis" id="150" />
+      <edge source="Community (ecology)" target="Plant community" id="151" />
+      <edge source="Community (ecology)" target="Population ecology" id="152" />
+      <edge source="Community (ecology)" target="Spatial ecology" id="153" />
+      <edge source="Community (ecology)" target="Ecosystem stability" id="154" />
+      <edge source="Disturbance (ecology)" target="Ecological collapse" id="155" />
+      <edge source="Disturbance (ecology)" target="Ecological stability" id="156" />
+      <edge source="Disturbance (ecology)" target="Ecosystem" id="157" />
+      <edge source="Disturbance (ecology)" target="Ecosystem stability" id="158" />
+      <edge source="Dominance (ecology)" target="Ecological extinction" id="159" />
+      <edge source="Dominance (ecology)" target="Ecosystem" id="160" />
+      <edge source="Dominance (ecology)" target="Population ecology" id="161" />
+      <edge source="Dominance (ecology)" target="Spatial ecology" id="162" />
+      <edge source="Ecological collapse" target="Balance of nature" id="163" />
+      <edge source="Ecological collapse" target="Ecological extinction" id="164" />
+      <edge source="Ecological collapse" target="Ecological resilience" id="165" />
+      <edge source="Ecological collapse" target="Ecological stability" id="166" />
+      <edge source="Ecological collapse" target="Ecology" id="167" />
+      <edge source="Ecological collapse" target="Ecosystem" id="168" />
+      <edge source="Ecological collapse" target="Ecosystem ecology" id="169" />
+      <edge source="Ecological collapse" target="Ecosystem engineer" id="170" />
+      <edge source="Ecological collapse" target="Ecosystem model" id="171" />
+      <edge source="Ecological collapse" target="Restoration ecology" id="172" />
+      <edge source="Ecological collapse" target="Systems ecology" id="173" />
+      <edge source="Ecological collapse" target="Theoretical ecology" id="174" />
+      <edge source="Ecological collapse" target="Ecosystem stability" id="175" />
+      <edge source="Ecological extinction" target="Behavioral ecology" id="176" />
+      <edge source="Ecological extinction" target="Biodiversity loss" id="177" />
+      <edge source="Ecological extinction" target="Ecological effects of biodiversity" id="178" />
+      <edge source="Ecological extinction" target="Ecological stability" id="179" />
+      <edge source="Ecological extinction" target="Ecology" id="180" />
+      <edge source="Ecological extinction" target="Ecosystem" id="181" />
+      <edge source="Ecological extinction" target="Ecosystem ecology" id="182" />
+      <edge source="Ecological extinction" target="Extinction" id="183" />
+      <edge source="Ecological extinction" target="Extinction event" id="184" />
+      <edge source="Ecological extinction" target="Extinction threshold" id="185" />
+      <edge source="Ecological extinction" target="Extinction vortex" id="186" />
+      <edge source="Ecological extinction" target="Functional extinction" id="187" />
+      <edge source="Ecological extinction" target="Habitat destruction" id="188" />
+      <edge source="Ecological extinction" target="Holocene extinction" id="189" />
+      <edge source="Ecological extinction" target="Human extinction" id="190" />
+      <edge source="Ecological extinction" target="Local extinction" id="191" />
+      <edge source="Ecological extinction" target="Loss of habitat" id="192" />
+      <edge source="Ecological extinction" target="Mass extinction" id="193" />
+      <edge source="Ecological extinction" target="Paradox of enrichment" id="194" />
+      <edge source="Ecological extinction" target="Population ecology" id="195" />
+      <edge source="Ecological extinction" target="Restoration ecology" id="196" />
+      <edge source="Ecological extinction" target="Spatial ecology" id="197" />
+      <edge source="Ecological extinction" target="Ecosystem stability" id="198" />
+      <edge source="Ecological footprint" target="Ecological indicator" id="199" />
+      <edge source="Ecological footprint" target="Ecosystem" id="200" />
+      <edge source="Ecological footprint" target="Ecosystem ecology" id="201" />
+      <edge source="Ecological footprint" target="Ecosystem model" id="202" />
+      <edge source="Ecological indicator" target="Bioindicator" id="203" />
+      <edge source="Ecological indicator" target="Ecological science" id="204" />
+      <edge source="Ecological indicator" target="Ecology" id="205" />
+      <edge source="Ecological indicator" target="Ecosystem" id="206" />
+      <edge source="Ecological indicator" target="Ecosystem ecology" id="207" />
+      <edge source="Ecological indicator" target="Ecosystem model" id="208" />
+      <edge source="Ecological indicator" target="Ecosystem valuation" id="209" />
+      <edge source="Ecological indicator" target="Environmental indicator" id="210" />
+      <edge source="Ecological indicator" target="Functional ecology" id="211" />
+      <edge source="Ecological indicator" target="Indicator plants" id="212" />
+      <edge source="Ecological indicator" target="Indicator species" id="213" />
+      <edge source="Ecological indicator" target="Outline of ecology" id="214" />
+      <edge source="Ecological resilience" target="Ecological stability" id="215" />
+      <edge source="Ecological resilience" target="Ecosystem" id="216" />
+      <edge source="Ecological resilience" target="Ecosystem stability" id="217" />
+      <edge source="Ecological stability" target="Alternative stable state" id="218" />
+      <edge source="Ecological stability" target="Balance of nature" id="219" />
+      <edge source="Ecological stability" target="Ecology" id="220" />
+      <edge source="Ecological stability" target="Ecosystem" id="221" />
+      <edge source="Ecological stability" target="Ecosystem diversity" id="222" />
+      <edge source="Ecological stability" target="Ecosystem ecology" id="223" />
+      <edge source="Ecological stability" target="Resilience (ecology)" id="224" />
+      <edge source="Ecological stability" target="Resistance (ecology)" id="225" />
+      <edge source="Ecology" target="Behavioral ecology" id="226" />
+      <edge source="Ecology" target="Behavioural ecology" id="227" />
+      <edge source="Ecology" target="Chemical ecology" id="228" />
+      <edge source="Ecology" target="Community ecology" id="229" />
+      <edge source="Ecology" target="Cultural ecology" id="230" />
+      <edge source="Ecology" target="Deep ecology" id="231" />
+      <edge source="Ecology" target="Ecological genetics" id="232" />
+      <edge source="Ecology" target="Ecological psychology" id="233" />
+      <edge source="Ecology" target="Ecology (disambiguation)" id="234" />
+      <edge source="Ecology" target="Ecophysiology" id="235" />
+      <edge source="Ecology" target="Ecosystem" id="236" />
+      <edge source="Ecology" target="Ecosystem ecology" id="237" />
+      <edge source="Ecology" target="Ecosystem health" id="238" />
+      <edge source="Ecology" target="Ecosystem management" id="239" />
+      <edge source="Ecology" target="Ecosystem model" id="240" />
+      <edge source="Ecology" target="Ecosystems" id="241" />
+      <edge source="Ecology" target="Evolutionary ecology" id="242" />
+      <edge source="Ecology" target="Functional ecology" id="243" />
+      <edge source="Ecology" target="Glossary of ecology" id="244" />
+      <edge source="Ecology" target="Habitat" id="245" />
+      <edge source="Ecology" target="Habitats" id="246" />
+      <edge source="Ecology" target="History of ecology" id="247" />
+      <edge source="Ecology" target="Human ecology" id="248" />
+      <edge source="Ecology" target="Industrial ecology" id="249" />
+      <edge source="Ecology" target="Information ecology" id="250" />
+      <edge source="Ecology" target="Insular biogeography" id="251" />
+      <edge source="Ecology" target="Island biogeography" id="252" />
+      <edge source="Ecology" target="Landscape ecology" id="253" />
+      <edge source="Ecology" target="Microbial ecology" id="254" />
+      <edge source="Ecology" target="Molecular Ecology" id="255" />
+      <edge source="Ecology" target="Molecular ecology" id="256" />
+      <edge source="Ecology" target="Outline of ecology" id="257" />
+      <edge source="Ecology" target="Philosophy of ecology" id="258" />
+      <edge source="Ecology" target="Political ecology" id="259" />
+      <edge source="Ecology" target="Population ecology" id="260" />
+      <edge source="Ecology" target="Sensory ecology" id="261" />
+      <edge source="Ecology" target="Social ecology (academic field)" id="262" />
+      <edge source="Ecology" target="Soil ecology" id="263" />
+      <edge source="Ecology" target="Spiritual ecology" id="264" />
+      <edge source="Ecology" target="Systems ecology" id="265" />
+      <edge source="Ecology" target="Technoecosystems" id="266" />
+      <edge source="Ecology" target="Terrestrial ecosystem" id="267" />
+      <edge source="Ecology" target="Theoretical ecology" id="268" />
+      <edge source="Ecology" target="Urban ecology" id="269" />
+      <edge source="Ecology" target="Ecology (journal)" id="270" />
+      <edge source="Ecology" target="Ecosystem stability" id="271" />
+      <edge source="Ecosystem-based management" target="Ecosystem" id="272" />
+      <edge source="Ecosystem (disambiguation)" target="Ecosystem" id="273" />
+      <edge source="Ecosystem approach" target="Ecosystem" id="274" />
+      <edge source="Ecosystem collapse" target="Ecosystem" id="275" />
+      <edge source="Ecosystem ecology" target="Ecosystem" id="276" />
+      <edge source="Ecosystem ecology" target="Aquatic ecosystem" id="277" />
+      <edge source="Ecosystem ecology" target="Community ecology" id="278" />
+      <edge source="Ecosystem ecology" target="Ecological economics" id="279" />
+      <edge source="Ecosystem ecology" target="Ecological genetics" id="280" />
+      <edge source="Ecosystem ecology" target="Ecological niche" id="281" />
+      <edge source="Ecosystem ecology" target="Ecosystem diversity" id="282" />
+      <edge source="Ecosystem ecology" target="Ecosystem engineer" id="283" />
+      <edge source="Ecosystem ecology" target="Ecosystem management" id="284" />
+      <edge source="Ecosystem ecology" target="Ecosystem model" id="285" />
+      <edge source="Ecosystem ecology" target="Ecosystem services" id="286" />
+      <edge source="Ecosystem ecology" target="Evolutionary ecology" id="287" />
+      <edge source="Ecosystem ecology" target="Functional ecology" id="288" />
+      <edge source="Ecosystem ecology" target="Glossary of ecology" id="289" />
+      <edge source="Ecosystem ecology" target="Habitat" id="290" />
+      <edge source="Ecosystem ecology" target="Industrial ecology" id="291" />
+      <edge source="Ecosystem ecology" target="Landscape ecology" id="292" />
+      <edge source="Ecosystem ecology" target="Landscape limnology" id="293" />
+      <edge source="Ecosystem ecology" target="Microbial ecology" id="294" />
+      <edge source="Ecosystem ecology" target="Niche differentiation" id="295" />
+      <edge source="Ecosystem ecology" target="Outline of ecology" id="296" />
+      <edge source="Ecosystem ecology" target="Population ecology" id="297" />
+      <edge source="Ecosystem ecology" target="Spatial ecology" id="298" />
+      <edge source="Ecosystem ecology" target="Systems ecology" id="299" />
+      <edge source="Ecosystem ecology" target="Terrestrial ecoregion" id="300" />
+      <edge source="Ecosystem ecology" target="Theoretical ecology" id="301" />
+      <edge source="Ecosystem ecology" target="Urban ecology" id="302" />
+      <edge source="Ecosystem ecology" target="Ecosystem stability" id="303" />
+      <edge source="Ecosystem engineer" target="Ecosystem" id="304" />
+      <edge source="Ecosystem management" target="Ecosystem" id="305" />
+      <edge source="Ecosystem model" target="Ecosystem" id="306" />
+      <edge source="Ecosystem model" target="Ecological Modelling" id="307" />
+      <edge source="Ecosystem model" target="Ecological forecasting" id="308" />
+      <edge source="Ecosystem model" target="Ecological modelling" id="309" />
+      <edge source="Ecosystem model" target="Ecological system" id="310" />
+      <edge source="Ecosystem model" target="Population ecology" id="311" />
+      <edge source="Ecosystem model" target="Population model" id="312" />
+      <edge source="Ecosystem model" target="Scientific modelling" id="313" />
+      <edge source="Ecosystem model" target="Systems ecology" id="314" />
+      <edge source="Ecosystem model" target="Theoretical ecology" id="315" />
+      <edge source="Ecosystem model" target="Modelling biological systems" id="316" />
+      <edge source="Ecosystem respiration" target="Ecosystem" id="317" />
+      <edge source="Ecosystem services" target="Ecosystem" id="318" />
+      <edge source="Ecosystems" target="Ecosystem" id="319" />
+      <edge source="Environmental factor" target="Ecosystem" id="320" />
+      <edge source="Functional ecology" target="Ecosystem" id="321" />
+      <edge source="Functional ecology" target="Behavioral ecology" id="322" />
+      <edge source="Functional ecology" target="Chemical ecology" id="323" />
+      <edge source="Functional ecology" target="Functional Ecology (journal)" id="324" />
+      <edge source="Functional ecology" target="History of ecology" id="325" />
+      <edge source="Functional ecology" target="Human ecology" id="326" />
+      <edge source="Functional ecology" target="Theoretical ecology" id="327" />
+      <edge source="Groundwater-dependent ecosystems" target="Ecosystem" id="328" />
+      <edge source="Habitat" target="Ecosystem" id="329" />
+      <edge source="Habitat" target="Population ecology" id="330" />
+      <edge source="Habitat" target="Spatial ecology" id="331" />
+      <edge source="Habitat (ecology)" target="Ecosystem" id="332" />
+      <edge source="Habitat (ecology)" target="Outline of ecology" id="333" />
+      <edge source="Microbial ecology" target="Ecosystem" id="334" />
+      <edge source="Natural environment" target="Ecosystem" id="335" />
+      <edge source="Natural environment" target="Outline of ecology" id="336" />
+      <edge source="Novel ecosystem" target="Ecosystem" id="337" />
+      <edge source="Outline of ecology" target="Ecosystem" id="338" />
+      <edge source="Outline of ecology" target="Animal ecology" id="339" />
+      <edge source="Outline of ecology" target="Applied ecology" id="340" />
+      <edge source="Outline of ecology" target="Chemical ecology" id="341" />
+      <edge source="Outline of ecology" target="Ecological anthropology" id="342" />
+      <edge source="Outline of ecology" target="Ecological health" id="343" />
+      <edge source="Outline of ecology" target="Ecophysiology" id="344" />
+      <edge source="Outline of ecology" target="Environment (biophysical)" id="345" />
+      <edge source="Outline of ecology" target="Glossary of ecology" id="346" />
+      <edge source="Outline of ecology" target="Human ecology" id="347" />
+      <edge source="Outline of ecology" target="Information ecology" id="348" />
+      <edge source="Outline of ecology" target="Landscape ecology" id="349" />
+      <edge source="Outline of ecology" target="Population ecology" id="350" />
+      <edge source="Outline of ecology" target="Sensory ecology" id="351" />
+      <edge source="Outline of ecology" target="Social ecology (academic field)" id="352" />
+      <edge source="Outline of ecology" target="Soil ecology" id="353" />
+      <edge source="Outline of ecology" target="Spatial ecology" id="354" />
+      <edge source="Outline of ecology" target="Urban ecology" id="355" />
+      <edge source="Perturbation (biology)" target="Ecosystem" id="356" />
+      <edge source="Population ecology" target="Ecosystem" id="357" />
+      <edge source="Population ecology" target="Evolutionary ecology" id="358" />
+      <edge source="Population ecology" target="Abundance (ecology)" id="359" />
+      <edge source="Population ecology" target="Behavioral ecology" id="360" />
+      <edge source="Population ecology" target="Community ecology" id="361" />
+      <edge source="Population ecology" target="Disease ecology" id="362" />
+      <edge source="Population ecology" target="Ecological anthropology" id="363" />
+      <edge source="Population ecology" target="Ecological effects of biodiversity" id="364" />
+      <edge source="Population ecology" target="Ecological niche" id="365" />
+      <edge source="Population ecology" target="Ecophysiology" id="366" />
+      <edge source="Population ecology" target="Glossary of ecology" id="367" />
+      <edge source="Population ecology" target="History of ecology" id="368" />
+      <edge source="Population ecology" target="Human ecology" id="369" />
+      <edge source="Population ecology" target="Landscape ecology" id="370" />
+      <edge source="Population ecology" target="Lists of organisms by population" id="371" />
+      <edge source="Population ecology" target="Molecular ecology" id="372" />
+      <edge source="Population ecology" target="Niche differentiation" id="373" />
+      <edge source="Population ecology" target="Political ecology" id="374" />
+      <edge source="Population ecology" target="Population cycle" id="375" />
+      <edge source="Population ecology" target="Population dynamics" id="376" />
+      <edge source="Population ecology" target="Population dynamics of fisheries" id="377" />
+      <edge source="Population ecology" target="Population genetics" id="378" />
+      <edge source="Population ecology" target="Population model" id="379" />
+      <edge source="Population ecology" target="Quantitative ecology" id="380" />
+      <edge source="Population ecology" target="Social ecology (academic field)" id="381" />
+      <edge source="Population ecology" target="Spatial ecology" id="382" />
+      <edge source="Population ecology" target="Synecology" id="383" />
+      <edge source="Population ecology" target="Systems ecology" id="384" />
+      <edge source="Population ecology" target="Theoretical ecology" id="385" />
+      <edge source="Population ecology" target="Urban ecology" id="386" />
+      <edge source="Reference ecosystem" target="Ecosystem" id="387" />
+      <edge source="Resilience (ecology)" target="Ecosystem" id="388" />
+      <edge source="Resilience (ecology)" target="Ecosystem stability" id="389" />
+      <edge source="Spatial ecology" target="Ecosystem" id="390" />
+      <edge source="Spatial ecology" target="Abundance (ecology)" id="391" />
+      <edge source="Spatial ecology" target="Community ecology" id="392" />
+      <edge source="Spatial ecology" target="Ecological niche" id="393" />
+      <edge source="Spatial ecology" target="Ecosystem diversity" id="394" />
+      <edge source="Spatial ecology" target="Intermediate disturbance hypothesis" id="395" />
+      <edge source="Spatial ecology" target="Landscape ecology" id="396" />
+      <edge source="Spatial ecology" target="Microhabitat" id="397" />
+      <edge source="Spatial ecology" target="Niche differentiation" id="398" />
+      <edge source="Spatial ecology" target="Spatial heterogeneity" id="399" />
+      <edge source="Spatial ecology" target="Species distribution" id="400" />
+      <edge source="Spatial ecology" target="Species–area relationship" id="401" />
+      <edge source="Spatial ecology" target="Synecology" id="402" />
+      <edge source="Systems ecology" target="Ecosystem" id="403" />
+      <edge source="Systems ecology" target="Applied ecology" id="404" />
+      <edge source="Systems ecology" target="Disease ecology" id="405" />
+      <edge source="Systems ecology" target="General systems theory" id="406" />
+      <edge source="Systems ecology" target="History of ecology" id="407" />
+      <edge source="Systems ecology" target="Human ecology" id="408" />
+      <edge source="Systems ecology" target="Landscape ecology" id="409" />
+      <edge source="Systems ecology" target="List of systems sciences organizations" id="410" />
+      <edge source="Systems ecology" target="Political ecology" id="411" />
+      <edge source="Systems ecology" target="Quantitative ecology" id="412" />
+      <edge source="Systems ecology" target="Social ecology (academic field)" id="413" />
+      <edge source="Systems ecology" target="System" id="414" />
+      <edge source="Systems ecology" target="Systems analysis" id="415" />
+      <edge source="Systems ecology" target="Systems biology" id="416" />
+      <edge source="Systems ecology" target="Systems philosophy" id="417" />
+      <edge source="Systems ecology" target="Systems psychology" id="418" />
+      <edge source="Systems ecology" target="Systems science" id="419" />
+      <edge source="Systems ecology" target="Systems theory" id="420" />
+      <edge source="Systems ecology" target="Systems theory in anthropology" id="421" />
+      <edge source="Systems ecology" target="Systems theory in archaeology" id="422" />
+      <edge source="Systems ecology" target="Systems thinking" id="423" />
+      <edge source="Systems ecology" target="Theoretical ecology" id="424" />
+      <edge source="Terrestrial ecosystem" target="Ecosystem" id="425" />
+      <edge source="Terrestrial ecosystems" target="Ecosystem" id="426" />
+      <edge source="Theoretical ecology" target="Ecosystem" id="427" />
+      <edge source="Theoretical ecology" target="Evolutionary ecology" id="428" />
+      <edge source="Theoretical ecology" target="Chemical ecology" id="429" />
+      <edge source="Theoretical ecology" target="Disease ecology" id="430" />
+      <edge source="Theoretical ecology" target="Ecological anthropology" id="431" />
+      <edge source="Theoretical ecology" target="Ecological systems theory" id="432" />
+      <edge source="Theoretical ecology" target="Ecology: Individuals, Populations and Communities" id="433" />
+      <edge source="Theoretical ecology" target="Ecophysiology" id="434" />
+      <edge source="Theoretical ecology" target="Ecosystem models" id="435" />
+      <edge source="Theoretical ecology" target="Experimental ecology" id="436" />
+      <edge source="Theoretical ecology" target="History of ecology" id="437" />
+      <edge source="Theoretical ecology" target="Human ecology" id="438" />
+      <edge source="Theoretical ecology" target="Molecular ecology" id="439" />
+      <edge source="Theoretical ecology" target="Political ecology" id="440" />
+      <edge source="Theoretical ecology" target="Quantitative ecology" id="441" />
+      <edge source="Theoretical ecology" target="Social ecology (academic field)" id="442" />
+      <edge source="Urban ecosystem" target="Ecosystem" id="443" />
+      <edge source="Ecosystem" target="Ecosystem stability" id="444" />
+      <edge source="Ecosystem diversity" target="Ecosystem stability" id="445" />
+      <edge source="Consumer-resource systems" target="Consumer (food chain)" id="446" />
+      <edge source="Consumer-resource systems" target="Food chain" id="447" />
+      <edge source="Consumer-resource systems" target="Food chains" id="448" />
+      <edge source="Consumer-resource systems" target="Food web" id="449" />
+      <edge source="Consumer-resource systems" target="Soil food web" id="450" />
+      <edge source="Food web" target="Soil food web" id="451" />
+      <edge source="Soil food web" target="Food webs" id="452" />
+      <edge source="Soil food web" target="Soil biology" id="453" />
+      <edge source="Soil food web" target="Soil ecology" id="454" />
+      <edge source="Soil food web" target="Soil life" id="455" />
+      <edge source="Balance of nature" target="Ecosystem stability" id="456" />
+      <edge source="Behavioral ecology" target="Evolutionary ecology" id="457" />
+      <edge source="Alternative stable state" target="Ecosystem stability" id="458" />
+      <edge source="Resistance (ecology)" target="Ecosystem stability" id="459" />
+      <edge source="Ecological genetics" target="Evolutionary ecology" id="460" />
+      <edge source="Evolutionary ecology" target="Applications of evolution" id="461" />
+      <edge source="Evolutionary ecology" target="Current research in evolutionary biology" id="462" />
+      <edge source="Evolutionary ecology" target="Ecological anthropology" id="463" />
+      <edge source="Evolutionary ecology" target="Evolution" id="464" />
+      <edge source="Evolutionary ecology" target="Evolutionary Ecology (journal)" id="465" />
+      <edge source="Evolutionary ecology" target="Evolutionary anthropology" id="466" />
+      <edge source="Evolutionary ecology" target="Evolutionary biology" id="467" />
+      <edge source="Evolutionary ecology" target="Evolutionary economics" id="468" />
+      <edge source="Evolutionary ecology" target="Evolutionary epistemology" id="469" />
+      <edge source="Evolutionary ecology" target="Evolutionary ethics" id="470" />
+      <edge source="Evolutionary ecology" target="Evolutionary neuroscience" id="471" />
+      <edge source="Evolutionary ecology" target="Evolutionary physiology" id="472" />
+      <edge source="Evolutionary ecology" target="Evolutionary psychology" id="473" />
+      <edge source="Evolutionary ecology" target="Experimental evolution" id="474" />
+      <edge source="Evolutionary ecology" target="Glossary of ecology" id="475" />
+      <edge source="Evolutionary ecology" target="Glossary of evolutionary biology" id="476" />
+      <edge source="Evolutionary ecology" target="History of ecology" id="477" />
+      <edge source="Evolutionary ecology" target="Human ecology" id="478" />
+      <edge source="Evolutionary ecology" target="List of examples of convergent evolution" id="479" />
+      <edge source="Evolutionary ecology" target="Molecular ecology" id="480" />
+      <edge source="Evolutionary ecology" target="Outline of evolution" id="481" />
+      <edge source="Evolutionary ecology" target="Phylogenetics" id="482" />
+      <edge source="Evolutionary ecology" target="Quantitative ecology" id="483" />
+      <edge source="Evolutionary ecology" target="Social ecology (academic field)" id="484" />
+      <edge source="Evolutionary ecology" target="Social effects of evolutionary theory" id="485" />
+      <edge source="Evolutionary ecology" target="Category:Evolutionary biology" id="486" />
+      <edge source="Ecology (journal)" target="Journal of Ecology" id="487" />
+      <edge source="Scientific modelling" target="Modelling biological systems" id="488" />
+      <edge source="Scientific modelling" target="Climate model" id="489" />
+      <edge source="Scientific modelling" target="Computational model" id="490" />
+      <edge source="Scientific modelling" target="Computational models" id="491" />
+      <edge source="Scientific modelling" target="Empirical modelling" id="492" />
+      <edge source="Scientific modelling" target="Energy modeling" id="493" />
+      <edge source="Scientific modelling" target="Enterprise modelling" id="494" />
+      <edge source="Scientific modelling" target="Mathematical model" id="495" />
+      <edge source="Scientific modelling" target="Mathematical modeling" id="496" />
+      <edge source="Scientific modelling" target="Model" id="497" />
+      <edge source="Scientific modelling" target="Modeling and simulation" id="498" />
+      <edge source="Scientific modelling" target="Modeling biological systems" id="499" />
+      <edge source="Scientific modelling" target="Modeling language" id="500" />
+      <edge source="Scientific modelling" target="Modelling and simulation" id="501" />
+      <edge source="Scientific modelling" target="Scale model" id="502" />
+      <edge source="Scientific modelling" target="Simulation" id="503" />
+      <edge source="Scientific modelling" target="Statistical model" id="504" />
+      <edge source="Scientific modelling" target="Systems modeling" id="505" />
+      <edge source="List of systems sciences organizations" target="Systems biology" id="506" />
+      <edge source="List of systems sciences organizations" target="Systems theory" id="507" />
+      <edge source="System" target="Systems biology" id="508" />
+      <edge source="System" target="Systems theory" id="509" />
+      <edge source="Systems analysis" target="Systems biology" id="510" />
+      <edge source="Systems analysis" target="Systems theory" id="511" />
+      <edge source="Systems biology" target="Bioinformatics" id="512" />
+      <edge source="Systems biology" target="Mathematical biology" id="513" />
+      <edge source="Systems biology" target="Modelling biological systems" id="514" />
+      <edge source="Systems biology" target="BioSystems" id="515" />
+      <edge source="Systems biology" target="Biochemical Systems Theory" id="516" />
+      <edge source="Systems biology" target="Biological computation" id="517" />
+      <edge source="Systems biology" target="Biological organisation" id="518" />
+      <edge source="Systems biology" target="Biological system" id="519" />
+      <edge source="Systems biology" target="Biology" id="520" />
+      <edge source="Systems biology" target="Cancer systems biology" id="521" />
+      <edge source="Systems biology" target="Cell theory" id="522" />
+      <edge source="Systems biology" target="Computational biology" id="523" />
+      <edge source="Systems biology" target="Computational model" id="524" />
+      <edge source="Systems biology" target="List of systems biology modeling software" id="525" />
+      <edge source="Systems biology" target="Living systems" id="526" />
+      <edge source="Systems biology" target="Mathematical and theoretical biology" id="527" />
+      <edge source="Systems biology" target="Molecular biology" id="528" />
+      <edge source="Systems biology" target="Systems biomedicine" id="529" />
+      <edge source="Systems biology" target="Systems immunology" id="530" />
+      <edge source="Systems biology" target="Systems medicine" id="531" />
+      <edge source="Systems biology" target="Systems neuroscience" id="532" />
+      <edge source="Systems biology" target="Systems pharmacology" id="533" />
+      <edge source="Systems biology" target="Systems philosophy" id="534" />
+      <edge source="Systems biology" target="Systems psychology" id="535" />
+      <edge source="Systems biology" target="Systems science" id="536" />
+      <edge source="Systems biology" target="Systems theory" id="537" />
+      <edge source="Systems biology" target="Systems theory in anthropology" id="538" />
+      <edge source="Systems biology" target="Systems theory in archaeology" id="539" />
+      <edge source="Systems biology" target="Systems thinking" id="540" />
+      <edge source="Systems biology" target="Category:Systems science" id="541" />
+      <edge source="Systems philosophy" target="Systems theory" id="542" />
+      <edge source="Systems psychology" target="Systems theory" id="543" />
+      <edge source="Systems science" target="Systems theory" id="544" />
+      <edge source="Systems theory" target="Modelling biological systems" id="545" />
+      <edge source="Systems theory" target="Complex system" id="546" />
+      <edge source="Systems theory" target="Complex systems" id="547" />
+      <edge source="Systems theory" target="Ecological systems theory" id="548" />
+      <edge source="Systems theory" target="Environment (systems)" id="549" />
+      <edge source="Systems theory" target="Glossary of systems theory" id="550" />
+      <edge source="Systems theory" target="List of systems science organizations" id="551" />
+      <edge source="Systems theory" target="List of types of systems theory" id="552" />
+      <edge source="Systems theory" target="Living systems" id="553" />
+      <edge source="Systems theory" target="Living systems theory" id="554" />
+      <edge source="Systems theory" target="Social system" id="555" />
+      <edge source="Systems theory" target="System identification" id="556" />
+      <edge source="Systems theory" target="Systems" id="557" />
+      <edge source="Systems theory" target="Systems chemistry" id="558" />
+      <edge source="Systems theory" target="Systems engineering" id="559" />
+      <edge source="Systems theory" target="Systems neuroscience" id="560" />
+      <edge source="Systems theory" target="Systems theory in anthropology" id="561" />
+      <edge source="Systems theory" target="Systems theory in archaeology" id="562" />
+      <edge source="Systems theory" target="Systems theory in political science" id="563" />
+      <edge source="Systems theory" target="Systems thinking" id="564" />
+      <edge source="Systems theory" target="Viable system theory" id="565" />
+      <edge source="Systems theory" target="Viable systems approach" id="566" />
+      <edge source="Systems theory" target="World-systems theory" id="567" />
+      <edge source="Systems theory" target="Category:Systems science" id="568" />
+      <edge source="Modelling biological systems" target="BioModels" id="569" />
+      <edge source="Modelling biological systems" target="Bioinformatics" id="570" />
+      <edge source="Modelling biological systems" target="Biological data visualization" id="571" />
+      <edge source="Modelling biological systems" target="Biological organisation" id="572" />
+      <edge source="Modelling biological systems" target="Biosimulation" id="573" />
+      <edge source="Modelling biological systems" target="Cellular model" id="574" />
+      <edge source="Modelling biological systems" target="Mathematical biology" id="575" />
+      <edge source="BioModels" target="Bioinformatics" id="576" />
+      <edge source="Bioinformatics" target="Alignment-free sequence analysis" id="577" />
+      <edge source="Bioinformatics" target="Bio-inspired computing" id="578" />
+      <edge source="Bioinformatics" target="BioJS" id="579" />
+      <edge source="Bioinformatics" target="BioNumbers" id="580" />
+      <edge source="Bioinformatics" target="Biochip" id="581" />
+      <edge source="Bioinformatics" target="Bioimage informatics" id="582" />
+      <edge source="Bioinformatics" target="Bioinformatics (journal)" id="583" />
+      <edge source="Bioinformatics" target="Bioinformatics companies" id="584" />
+      <edge source="Bioinformatics" target="Bioinformatics workflow management systems" id="585" />
+      <edge source="Bioinformatics" target="Biological Data Visualization" id="586" />
+      <edge source="Bioinformatics" target="Biological computation" id="587" />
+      <edge source="Bioinformatics" target="Biological data" id="588" />
+      <edge source="Bioinformatics" target="Biological database" id="589" />
+      <edge source="Bioinformatics" target="Biophysics" id="590" />
+      <edge source="Bioinformatics" target="Biopython" id="591" />
+      <edge source="Bioinformatics" target="Biostatistics" id="592" />
+      <edge source="Bioinformatics" target="Computational biology" id="593" />
+      <edge source="Bioinformatics" target="Computational biomodeling" id="594" />
+      <edge source="Bioinformatics" target="Computational genomics" id="595" />
+      <edge source="Bioinformatics" target="Computational systems biology" id="596" />
+      <edge source="Bioinformatics" target="Flow cytometry bioinformatics" id="597" />
+      <edge source="Bioinformatics" target="Gene Disease Database" id="598" />
+      <edge source="Bioinformatics" target="Genome informatics" id="599" />
+      <edge source="Bioinformatics" target="Health informatics" id="600" />
+      <edge source="Bioinformatics" target="List of biobanks" id="601" />
+      <edge source="Bioinformatics" target="List of bioinformatics companies" id="602" />
+      <edge source="Bioinformatics" target="List of bioinformatics journals" id="603" />
+      <edge source="Bioinformatics" target="Mathematical and theoretical biology" id="604" />
+      <edge source="Bioinformatics" target="Neuroinformatics" id="605" />
+      <edge source="Bioinformatics" target="Sequence analysis" id="606" />
+      <edge source="Bioinformatics" target="Sequence profiling tool" id="607" />
+      <edge source="Bioinformatics" target="Structural bioinformatics" id="608" />
+      <edge source="Bioinformatics" target="Transcriptomics" id="609" />
+      <edge source="Bioinformatics" target="Category:Bioinformatics" id="610" />
+      <edge source="Bioinformatics" target="Biological data visualization" id="611" />
+      <edge source="Bioinformatics" target="Mathematical biology" id="612" />
+      <edge source="Biological data" target="Biological data visualization" id="613" />
+      <edge source="Biophysics" target="Mathematical biology" id="614" />
+      <edge source="Biostatistics" target="Mathematical biology" id="615" />
+      <edge source="Computational biology" target="Mathematical biology" id="616" />
+      <edge source="Biological data visualization" target="List of molecular graphics systems" id="617" />
+      <edge source="Biological data visualization" target="Scientific visualization" id="618" />
+      <edge source="Biological organisation" target="Biological system" id="619" />
+      <edge source="Biological organisation" target="Biological systems" id="620" />
+      <edge source="Biological organisation" target="Hierarchy of life" id="621" />
+      <edge source="Biological organisation" target="Hierarchy theory" id="622" />
+      <edge source="Biological organisation" target="Integrative level" id="623" />
+      <edge source="Biological organisation" target="Levels of organization" id="624" />
+      <edge source="Biological organisation" target="Organism" id="625" />
+      <edge source="Mathematical biology" target="Biochemistry" id="626" />
+      <edge source="Mathematical biology" target="Biological theory" id="627" />
+      <edge source="Mathematical biology" target="Biology" id="628" />
+      <edge source="Mathematical biology" target="Biomechanics" id="629" />
+      <edge source="Mathematical biology" target="Computational neuroscience" id="630" />
+      <edge source="Mathematical biology" target="Experimental biology" id="631" />
+      <edge source="Mathematical biology" target="Human biology" id="632" />
+      <edge source="Mathematical biology" target="Index of biology articles" id="633" />
+      <edge source="Mathematical biology" target="Molecular biology" id="634" />
+      <edge source="Mathematical biology" target="Quantum biology" id="635" />
+      <edge source="Network medicine" target="Human disease network" id="636" />
+      <edge source="Neural network" target="Artificial neural network" id="637" />
+      <edge source="Neural network" target="Biological neural network" id="638" />
+      <edge source="Neural network" target="Neural network (biology)" id="639" />
+      <edge source="Neural network" target="Neural network (disambiguation)" id="640" />
+      <edge source="Neural network" target="Neural network (machine learning)" id="641" />
+      <edge source="Artificial neural network" target="Artificial neuron" id="642" />
+      <edge source="Artificial neural network" target="Artificial neurons" id="643" />
+      <edge source="Artificial neural network" target="Biological neural network" id="644" />
+      <edge source="Artificial neural network" target="Echo state network" id="645" />
+      <edge source="Artificial neural network" target="Feedforward neural network" id="646" />
+      <edge source="Artificial neural network" target="Hidden layer" id="647" />
+      <edge source="Artificial neural network" target="History of artificial neural networks" id="648" />
+      <edge source="Artificial neural network" target="Large width limits of neural networks" id="649" />
+      <edge source="Artificial neural network" target="Mathematics of artificial neural networks" id="650" />
+      <edge source="Artificial neural network" target="Multilayer perceptrons" id="651" />
+      <edge source="Artificial neural network" target="Neural computing" id="652" />
+      <edge source="Artificial neural network" target="Neural network (disambiguation)" id="653" />
+      <edge source="Artificial neural network" target="Recurrent neural network" id="654" />
+      <edge source="Artificial neural network" target="Spiking neural network" id="655" />
+      <edge source="Artificial neural network" target="Types of artificial neural networks" id="656" />
+      <edge source="Artificial neural network" target="Category:Artificial neural networks" id="657" />
+      <edge source="Artificial neural network" target="Neural network (biology)" id="658" />
+      <edge source="Artificial neural network" target="Neural network (machine learning)" id="659" />
+      <edge source="Artificial neuron" target="Neural network (machine learning)" id="660" />
+      <edge source="Artificial neurons" target="Neural network (machine learning)" id="661" />
+      <edge source="Biological neural network" target="Neural circuit" id="662" />
+      <edge source="Biological neural network" target="Neural circuits" id="663" />
+      <edge source="Biological neural network" target="Neural network (disambiguation)" id="664" />
+      <edge source="Biological neural network" target="Neural network (machine learning)" id="665" />
+      <edge source="Echo state network" target="Neural network (machine learning)" id="666" />
+      <edge source="Feedforward neural network" target="Neural network (machine learning)" id="667" />
+      <edge source="Hidden layer" target="Neural network (machine learning)" id="668" />
+      <edge source="History of artificial neural networks" target="Neural network (machine learning)" id="669" />
+      <edge source="Large width limits of neural networks" target="Neural network (machine learning)" id="670" />
+      <edge source="Mathematics of artificial neural networks" target="Neural network (machine learning)" id="671" />
+      <edge source="Multilayer perceptrons" target="Neural network (machine learning)" id="672" />
+      <edge source="Neural computing" target="Neural network (machine learning)" id="673" />
+      <edge source="Neural network (disambiguation)" target="Neural network (biology)" id="674" />
+      <edge source="Neural network (disambiguation)" target="Neural Networks (journal)" id="675" />
+      <edge source="Neural network (disambiguation)" target="Neural network (machine learning)" id="676" />
+      <edge source="Recurrent neural network" target="Neural network (machine learning)" id="677" />
+      <edge source="Spiking neural network" target="Neural network (machine learning)" id="678" />
+      <edge source="Types of artificial neural networks" target="Neural network (machine learning)" id="679" />
+      <edge source="Category:Artificial neural networks" target="Neural network (machine learning)" id="680" />
+      <edge source="Neural circuit" target="Neural network (biology)" id="681" />
+      <edge source="Neural circuits" target="Neural network (biology)" id="682" />
+    </edges>
+  </graph>
+</gexf>
